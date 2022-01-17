@@ -71,68 +71,68 @@
 
 
     <!-- STATS CARDS  -->
-    <div class="row align-items-center " style="margin: 100px 0;">
-        <div class="col-12 col-md-6 col-lg-3 stats p-5 my-2 mx-3">
-            <h1>20000+</h1>
+    <div class="row align-items-center " style="margin-top: 100px;">
+        <div class="col-12 col-md-6 col-lg-3 stats p-5 my-2 mx-3" id="counter">
+            <h1><span class="counter-value" data-count="20000"></span><span>+</span></h1>
             <h2>Footfalls</h2>
         </div>
-        <div class="col-12 col-md-6 col-lg-3 stats p-5 my-2 mx-3">
-            <h1>500+</h1>
+        <div class="col-12 col-md-6 col-lg-3 stats p-5 my-2 mx-3" id="counter">
+          <h1><span class="counter-value" data-count="500"></span><span>+</span></h1>
             <h2>Startups</h2>
         </div>
-        <div class="col-12 col-md-6 col-lg-3 stats p-5 my-2 mx-3">
-            <h1>100+</h1>
+        <div class="col-12 col-md-6 col-lg-3 stats p-5 my-2 mx-3" id="counter">
+          <h1><span class="counter-value" data-count="100"></span><span>+</span></h1>
             <h2>Colleges</h2>
         </div>
-        <div class="col-12 col-md-6 col-lg-3 stats p-5 my-2 mx-3">
-            <h1>15+</h1>
+        <div class="col-12 col-md-6 col-lg-3 stats p-5 my-2 mx-3" id="counter">
+          <h1><span class="counter-value" data-count="15"></span><span>+</span></h1>
             <h2>Speakers</h2>
         </div>
     </div>
 
-    <span><img class="hexa" src="img/hex.png" alt=""></span>
+    <marquee direction="left" class="hexa" scrollamount="10" scrolldelay="60" ><img class="" src="img/hex.png" alt=""></marquee>
 
     <!-- SPEAKERS CARDS -->
     <section id="speakers">
-    <h1 class="text-white text-center" style="font-weight: bold; ">SPEAKERS</h1>
+    <h1 class="text-white text-center my-5" style="font-weight: bold; ">SPEAKERS</h1>
 
     <div class="row align-items-center text-center mx-auto" >
-        <div class="col-12 col-md-6 col-lg-4 speakercard">
+        <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
           <img src="img/karan.jpg" alt="">
           <h5 class="mt-2">KARAN SHAH</h5>
             <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
             <h6 class="my-2 pb-3 desig">Founder & CEO IIDE</h6>
         </div>
     
-        <div class="col-12 col-md-6 col-lg-4 speakercard">
+        <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
             <img src="img/karan.jpg" alt="">
             <h5 class="mt-2">KARAN SHAH</h5>
               <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
               <h6 class="my-2 desig pb-3">Founder & CEO IIDE</h6>
           </div>
     
-          <div class="col-12 col-md-6 col-lg-4 speakercard">
+          <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
             <img src="img/karan.jpg" alt="">
             <h5 class="mt-2">KARAN SHAH</h5>
               <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
               <h6 class="my-2 desig pb-3">Founder & CEO IIDE</h6>
           </div>
     
-          <div class="col-12 col-md-6 col-lg-4 speakercard">
+          <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
             <img src="img/karan.jpg" alt="">
             <h5 class="mt-2">KARAN SHAH</h5>
               <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
               <h6 class="my-2 desig pb-3">Founder & CEO IIDE</h6>
           </div>
     
-          <div class="col-12 col-md-6 col-lg-4 speakercard">
+          <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
             <img src="img/karan.jpg" alt="">
             <h5 class="mt-2">KARAN SHAH</h5>
               <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
               <h6 class="my-2 desig pb-3">Founder & CEO IIDE</h6>
           </div>
     
-          <div class="col-12 col-md-6 col-lg-4 speakercard">
+          <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
             <img src="img/karan.jpg" alt="">
             <h5 class="mt-2">KARAN SHAH</h5>
               <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
@@ -152,66 +152,69 @@
     <section id="events">
     <h1 class="text-white text-center mt-5" style="font-weight: bold;" >EVENTS</h1>
     <div class="row align-items-center text-center mx-0 mb-3 text-white">
-        <div class="col-12 col-md-6 col-lg-4 eventcard">
+        <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
             <span class="tag px-4 py-2">PAN NIT</span>
             <img src="img/karan.jpg" alt="">
             <h5 class="mt-2" style="font-weight: bold;">WAR OF WORLDS</h5>
-              <h6 class="mt-2 pb-3 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
+              <h6 class="mt-2 mx-2 pb-3 text-white text-left desc ">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
               <div class="col-md-12 text-right mb-5 mt-2">
                 <a href="" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
             </div>
           </div>
 
-          <div class="col-12 col-md-6 col-lg-4 eventcard">
+          <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
             <!-- <span class="tag px-4 py-2">PAN NIT</span> -->
             <img src="img/karan.jpg" alt="">
             <h5 class="mt-2" style="font-weight: bold;">WAR OF WORLDS</h5>
-              <h6 class="mt-2 pb-3 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
+              <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
               <div class="col-md-12 text-right mb-5 mt-2">
                 <a href="" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
             </div>
           </div>
 
-          <div class="col-12 col-md-6 col-lg-4 eventcard">
+          <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
             <!-- <span class="tag px-4 py-2">PAN NIT</span> -->
             <img src="img/karan.jpg" alt="">
             <h5 class="mt-2" style="font-weight: bold;">WAR OF WORLDS</h5>
-              <h6 class="mt-2 pb-3 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
+              <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
               <div class="col-md-12 text-right mb-5 mt-2">
                 <a href="" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
             </div>
           </div>
 
-          <div class="col-12 col-md-6 col-lg-4 eventcard">
+          <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
             <span class="tag px-4 py-2">PAN NIT</span>
             <img src="img/karan.jpg" alt="">
             <h5 class="mt-2" style="font-weight: bold;">WAR OF WORLDS</h5>
-              <h6 class="mt-2 pb-3 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
+              <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
               <div class="col-md-12 text-right mb-5 mt-2">
                 <a href="" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
             </div>
           </div>
 
-          <div class="col-12 col-md-6 col-lg-4 eventcard">
+          <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
             <!-- <span class="tag px-4 py-2">PAN NIT</span> -->
             <img src="img/karan.jpg" alt="">
             <h5 class="mt-2" style="font-weight: bold;">WAR OF WORLDS</h5>
-              <h6 class="mt-2 pb-3 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
+              <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
               <div class="col-md-12 text-right mb-5 mt-2">
                 <a href="" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
             </div>
           </div>
 
-          <div class="col-12 col-md-6 col-lg-4 eventcard">
+          <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
             <!-- <span class="tag px-4 py-2">PAN NIT</span> -->
             <img src="img/karan.jpg" alt="">
             <h5 class="mt-2" style="font-weight: bold;">WAR OF WORLDS</h5>
-              <h6 class="mt-2 pb-3 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
+              <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
               <div class="col-md-12 text-right mb-5 mt-2">
                 <a href="" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
             </div>
           </div>
     </div>
+    <div class="col-md-12 text-center mt-2 mb-5 px-5">
+      <a href="events.php" target="_blank"><button type="button" class="btn btn3">View all Events</button></a>
+  </div>
 </section>
 
 <span><img class="wire" src="img/wireframe2.png" alt="" height="700px"></span>
