@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Consortium 22 | Past Sponsors</title>
+    <title>Past Sponsors | Consortium 22 | E-CELL,VNIT</title>
 </head>
 <?php include('includes/header.php')?>
 <body>
@@ -15,67 +15,67 @@
 
 
    <div class="row align-items-center container1 text-center mx-auto" >
-     <div class="col-12 col-md-6 col-lg-4 card">
+     <div class="col-12 col-md-6 col-lg-4 card mx-4">
        <img src="img/op.jpg" alt="">
      </div>
-     <div class="col-12 col-md-6 col-lg-4 card">
+     <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/azure.jpg" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card">
+    <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/imerys.png" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card">
+    <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/cola.jpg" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card ">
+    <div class="col-12 col-md-6 col-lg-4 card  mx-4">
       <img src="img/bb.png" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card">
+    <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/coal.png" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card">
+    <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/pnaf.jpg" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card">
+    <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/Digital-india-black.jpg" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card">
+    <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/swiggy.jpg" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card">
+    <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/startupindia.png" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card">
+    <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/makeinindia.jpg" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card">
+    <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/moil.jpg" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card">
+    <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/hp.png" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card">
+    <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/indianoil.png" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card">
+    <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/jds.jpg" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card">
+    <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/kinetic.jpg" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card">
+    <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/znetlive.png" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card">
+    <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/msis.png" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card">
+    <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/officemate.png" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card">
+    <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/bubblebee.png" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card">
+    <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/desi.png" alt="">
     </div>
    </div>
@@ -87,7 +87,7 @@
      <h2>Contact Us</h2>
      <p>For any sponsorship related queries, do reach out to us</p>
      <div class="row align-items-center">
-      <div class="col-12 col-md-6 col-lg-4 contactcard">
+      <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
         <img src="img/karan.jpg" alt="">
         <h5 class="mt-2">Bharghav Choudhary</h5>
         <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
@@ -99,7 +99,7 @@
         <div class="phone">+91 9836726382</div>
       </div>
 
-      <div class="col-12 col-md-6 col-lg-4 contactcard">
+      <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
         <img src="img/karan.jpg" alt="">
         <h5 class="mt-2">Bharghav Choudhary</h5>
         <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
@@ -110,7 +110,7 @@
         <div class="name">bharghav@gmail.com</div>
         <div class="phone">+91 9836726382</div>
       </div>
-      <div class="col-12 col-md-6 col-lg-4 contactcard">
+      <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
         <img src="img/karan.jpg" alt="">
         <h5 class="mt-2">Bharghav Choudhary</h5>
         <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
