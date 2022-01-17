@@ -29,8 +29,8 @@
         <nav id="mainNavbar" class="navbar navbar-dark navbar-expand-lg py-0 sticky-top"data-aos="fade-down"
     data-aos-duration="2000">
       <a href="https://www.ecellvnit.org/" class="navbar-brand">
-      <img class="d-none d-lg-block ml-5" src="img/E-Cell_white.png" alt="ecell" width="150px">
-      <img class="d-sm d-lg-none ml-3" src="img/E-Cell_white.png" alt="ecell" width="100px"></a>
+      <img class="d-none d-lg-block ml-3" src="img/E-Cell_white.png" alt="ecell" width="170px">
+      <img class="d-sm d-lg-none ml-3" src="img/E-Cell_white.png" alt="ecell" width="120px"></a>
       <button
         class="navbar-toggler"
         type="button"
@@ -141,7 +141,35 @@ two.owlCarousel({
 });
 });
 </script>
-
+<script>
+     $(window).scroll(function() {
+  var a = 0;
+  var oTop = $('#counter').offset().top - window.innerHeight;
+  console.log($('#counter').offset().top);
+  if (a == 0 && $(window).scrollTop() > oTop) {
+    $('.counter-value').each(function() {
+      var $this = $(this),
+        countTo = $this.attr('data-count');
+      $({
+        countNum: $this.text()
+      }).animate({
+          countNum: countTo
+        },
+        {
+          duration: 3000,
+          easing: 'swing',
+          step: function() {
+            $this.text(Math.floor(this.countNum));
+          },
+          complete: function() {
+            $this.text(this.countNum);
+          }
+        });
+    });
+    a = 1;
+  }
+});
+   </script>
 
 </head>
 
