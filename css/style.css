@@ -4,6 +4,9 @@ body{
   font-family:'Lato',sans-serif;
   overflow-x: hidden;
 }
+html{
+  scroll-behavior: smooth;
+}
 a{
   text-decoration: none;
   color:inhert;
@@ -20,7 +23,7 @@ a{
   border-radius: 30px;
 }
 .stats{
-  background-image: linear-gradient(to bottom right, #383838, #2c2c2c);
+  background-image: linear-gradient(to bottom, #3a3a3a, #292929);
   width: auto;
   height: auto;
   border-radius: 10px;
@@ -97,9 +100,9 @@ a{
 /* SPEAKERS CSS */
 .speakercard img {
   padding: 5px 0;
-  height: 190px;
-  border-radius: 25px;
-  width: 230px;
+  height: 250px;
+  border-radius: 40px;
+  width: 300px;
   margin-left: -12px;
   margin-top: -12px;
 }
@@ -117,9 +120,9 @@ a{
 }
 
 .speakercard {
-  border-radius: 20px;
-  height: 270px;
-  width: 230px;
+  border-radius: 40px;
+  height: 330px;
+  width: 300px;
   margin: 30px 50px;
   background-color: #3a3a3a;
 }
@@ -175,7 +178,7 @@ a{
 .hexa{
   position: relative;
   bottom: 600px;
-  left: 700px;
+  /* left: 700px; */
   opacity: 0.5;
   margin-bottom: -950px;
   z-index: -1;
@@ -252,6 +255,7 @@ a{
   opacity: 0.4;
   z-index:-1;
 }
+
 @media only screen and (min-width:0px) {
   html,body{
       overflow-x: hidden;
