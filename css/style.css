@@ -139,7 +139,7 @@ a{
 
 /* EVENTS CARDS CSS */
 .eventcard{
-    height: 420px;
+    height: 440px;
     width: 300px;
     margin: 30px 50px;
     background-color: #3a3a3a;
@@ -147,7 +147,7 @@ a{
 }
 .eventcard img {
   padding: 5px 0;
-  height: 250px;
+  height: 270px;
   width: 288px;
   margin-left: -6px;
   margin-top:4px;
