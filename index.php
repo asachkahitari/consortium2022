@@ -154,9 +154,19 @@
     <div class="row align-items-center text-center mx-0 mb-3 text-white">
         <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
             <span class="tag px-4 py-2">PAN NIT</span>
-            <img src="img/karan.jpg" alt="">
-            <h5 class="mt-2" style="font-weight: bold;">WAR OF WORLDS</h5>
+            <img src="img/eco.jpeg" alt="">
+            <h5 class="mt-2" style="font-weight: bold;">ECOPRENEUR</h5>
               <h6 class="mt-2 mx-2 pb-3 text-white text-left desc ">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
+              <div class="col-md-12 text-right mb-5 mt-2">
+                <a href="" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
+            </div>
+          </div>
+
+          <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
+            <!-- <span class="tag px-4 py-2">PAN NIT</span> -->
+            <img src="img/neo.jpeg" alt="">
+            <h5 class="mt-2" style="font-weight: bold;">NEO</h5>
+              <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
               <div class="col-md-12 text-right mb-5 mt-2">
                 <a href="" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
             </div>
@@ -172,8 +182,8 @@
             </div>
           </div>
 
-          <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
-            <!-- <span class="tag px-4 py-2">PAN NIT</span> -->
+          <!-- <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
+            <span class="tag px-4 py-2">PAN NIT</span>
             <img src="img/karan.jpg" alt="">
             <h5 class="mt-2" style="font-weight: bold;">WAR OF WORLDS</h5>
               <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
@@ -193,24 +203,14 @@
           </div>
 
           <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
-            <!-- <span class="tag px-4 py-2">PAN NIT</span> -->
+            <span class="tag px-4 py-2">PAN NIT</span>
             <img src="img/karan.jpg" alt="">
             <h5 class="mt-2" style="font-weight: bold;">WAR OF WORLDS</h5>
               <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
               <div class="col-md-12 text-right mb-5 mt-2">
                 <a href="" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
             </div>
-          </div>
-
-          <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
-            <!-- <span class="tag px-4 py-2">PAN NIT</span> -->
-            <img src="img/karan.jpg" alt="">
-            <h5 class="mt-2" style="font-weight: bold;">WAR OF WORLDS</h5>
-              <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
-              <div class="col-md-12 text-right mb-5 mt-2">
-                <a href="" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
-            </div>
-          </div>
+          </div> -->
     </div>
     <div class="col-md-12 text-center mt-2 mb-5 px-5">
       <a href="events.php" target="_blank"><button type="button" class="btn btn3">View all Events</button></a>
