@@ -6,10 +6,9 @@
 <?php include('includes/header.php')?>
 <body style="background-color: #292929;">
 <hr style="border-top: 1px solid #fff;opacity: 0.8;margin-top: 3px;">
-  <h1 class="text-white text-center mt-5" style="font-weight: bold; ">SPEAKERS</h1>
+  <h1 class="text-white text-center mt-5" style="font-weight: bold;" >SPEAKERS</h1>
  
-  <marquee behavior="" direction="" scrollamount="10" scrolldelay="60" style="position: relative;bottom: 280px;opacity: 0.8;margin-bottom: -550px;z-index: -1;"><span><img src="img/hex.png" alt="" width="450px" ></span></marquee>
-  
+  <img src="img/hex.png" alt="" style="position: relative;bottom: 230px;opacity: 0.8;margin-bottom: -550px;z-index: -1;" class="hexa" width="450px">
   <div class="row align-items-center container1 text-center mx-auto" >
     <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
       <img src="img/karan.jpg" alt="">
