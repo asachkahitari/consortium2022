@@ -20,14 +20,14 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <!-- Local CSS -->
     <link rel="stylesheet" href="css/otherStyles.css">
     <link href="css/style.css" rel="stylesheet" type="text/css" />
 
 
       <!-- NAVBAR -->
-        <nav id="mainNavbar" class="navbar navbar-dark navbar-expand-lg py-0 sticky-top"data-aos="fade-down"
-    data-aos-duration="2000">
+        <nav id="mainNavbar" class="navbar navbar-dark navbar-expand-lg py-0 sticky-top" >
       <a href="https://www.ecellvnit.org/" class="navbar-brand">
       <img class="d-none d-lg-block ml-3" src="img/E-Cell_white.png" alt="ecell" width="170px">
       <img class="d-sm d-lg-none ml-3" src="img/E-Cell_white.png" alt="ecell" width="120px"></a>
@@ -104,7 +104,8 @@
   ></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  
 
   
   <script>
@@ -171,6 +172,23 @@ two.owlCarousel({
 });
    </script>
 
+<script>
+  AOS.init();
+</script>
+<script>
+  window.addEventListener('load', () => {
+AOS.init({
+offset: 1700,
+})
+});
+</script>
+<script>
+  $(function() {
+    $(".preload").fadeOut(3000, function() {
+        $(".content").fadeIn(2000);        
+    });
+});
+</script>
 </head>
 
 </html>
