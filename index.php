@@ -3,10 +3,15 @@
 <head>
 <title>Consortium'22 | E-CELL, VNIT</title>
 </head>
-<?php include('includes/header.php'); ?>
-    <body style="background: #292929;">
+
+<div class="preload"><img src="img/1494.gif"></div>
+
+
+    <body style="background: #292929;" style="margin: 0;">
 
     <!-- MAIN IMAGE -->
+    <div class="content">
+      <?php include('includes/header.php'); ?>
     <img id="home" class="d-none d-lg-block home" src="img/home.jpeg" style="position: relative;">
     <img id="home_mob" class="d-block d-lg-none" style="width:100%;height:90vh;" src="img/homebg_mob.jpg" alt="">
       <a href=""><div class="caret"></div></a>
@@ -71,7 +76,7 @@
 
 
     <!-- STATS CARDS  -->
-    <div class="row align-items-center " style="margin-top: 100px;">
+    <div class="row align-items-center" style="margin-top: 100px;" >
         <div class="col-12 col-md-6 col-lg-3 stats p-5 my-2 mx-3" id="counter">
             <h1><span class="counter-value" data-count="20000"></span><span>+</span></h1>
             <h2>Footfalls</h2>
@@ -90,13 +95,15 @@
         </div>
     </div>
 
-    <marquee direction="left" class="hexa" scrollamount="10" scrolldelay="60" ><img class="" src="img/hex.png" alt=""></marquee>
-
+   
+    <img src="img/hex.png" class="hexa" alt="" style="bottom: 500px;">
     <!-- SPEAKERS CARDS -->
     <section id="speakers">
-    <h1 class="text-white text-center my-5" style="font-weight: bold; ">SPEAKERS</h1>
+    <h1 class="text-white text-center my-5" data-aos="fade-up"
+    data-aos-duration="2000" style="font-weight: bold; ">SPEAKERS</h1>
 
-    <div class="row align-items-center text-center mx-auto" >
+    <div class="row align-items-center text-center mx-auto" data-aos="fade-up"
+    data-aos-duration="2000">
         <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
           <img src="img/karan.jpg" alt="">
           <h5 class="mt-2">KARAN SHAH</h5>
@@ -140,7 +147,8 @@
           </div>
       </div>
 
-      <div class="col-md-12 text-center mt-2 mb-5 px-5">
+      <div class="col-md-12 text-center mt-2 mb-5 px-5" data-aos="fade-up"
+      data-aos-duration="2000">
         <a href="speakers.php" target="_blank"><button type="button" class="btn btn3">View all Speakers</button></a>
     </div>
 </section>
@@ -150,8 +158,9 @@
 
     <!-- EVENTS CARDS -->
     <section id="events">
-    <h1 class="text-white text-center mt-5" style="font-weight: bold;" >EVENTS</h1>
-    <div class="row align-items-center text-center mx-0 mb-3 text-white">
+    <h1 class="text-white text-center mt-5" style="font-weight: bold;" data-aos="fade-up" data-aos-duration="2000">EVENTS</h1>
+    <div class="row align-items-center text-center mx-0 mb-3 text-white" data-aos="fade-up"
+    data-aos-duration="2000">
         <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
             <span class="tag px-4 py-2">PAN NIT</span>
             <img src="img/eco.jpeg" alt="">
@@ -212,7 +221,8 @@
             </div>
           </div> -->
     </div>
-    <div class="col-md-12 text-center mt-2 mb-5 px-5">
+    <div class="col-md-12 text-center mt-2 mb-5 px-5" data-aos="fade-up"
+    data-aos-duration="2000">
       <a href="events.php" target="_blank"><button type="button" class="btn btn3">View all Events</button></a>
   </div>
 </section>
@@ -220,7 +230,6 @@
 <span><img class="wire" src="img/wireframe2.png" alt="" height="700px"></span>
 
 <?php include('includes/footer.php')?>
-
-
+</div>
 </body>
 </html>
