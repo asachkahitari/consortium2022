@@ -1,3 +1,43 @@
+.content {display:none;}
+.preload { width:100px;
+    height: 100px;
+    position: fixed;
+    top: 45%;
+    left: 45%;}
+
+    .hexa {
+      -moz-animation: marquee 10s linear infinite;
+      -webkit-animation: marquee 10s linear infinite;
+      animation: marquee 10s linear infinite;
+    }
+    @-moz-keyframes marquee {
+      0% {
+        transform: translateX(100%);
+      }
+      100% {
+        transform: translateX(-100%);
+      }
+    }
+    @-webkit-keyframes marquee {
+      0% {
+        transform: translateX(100%);
+      }
+      100% {
+        transform: translateX(-100%);
+      }
+    }
+    @keyframes marquee {
+      0% {
+        -moz-transform: translateX(100%);
+        -webkit-transform: translateX(100%);
+        transform: translateX(100%)
+      }
+      100% {
+        -moz-transform: translateX(-100%);
+        -webkit-transform: translateX(-100%);
+        transform: translateX(-100%);
+      }
+    }
 body{
   margin: 0;
   padding:0;
@@ -139,16 +179,16 @@ a{
 
 /* EVENTS CARDS CSS */
 .eventcard{
-    height: 440px;
-    width: 300px;
+    height: 468px;
+    width: 310px;
     margin: 30px 50px;
     background-color: #3a3a3a;
     border-radius: 6px;
 }
 .eventcard img {
   padding: 5px 0;
-  height: 270px;
-  width: 288px;
+  height: 298px;
+  width: 298px;
   margin-left: -6px;
   margin-top:4px;
 }
@@ -229,7 +269,8 @@ a{
 .caret:before {
   content: '';
   position: absolute;
-  top: -15vw;
+  /* top: -15vw; */
+  top: -12rem;
   left: 50vw;
   border-top: 25px solid #fff;
   border-left: 25px solid transparent;
@@ -240,7 +281,8 @@ a{
   content: '';
   position: absolute;
   left: 50vw;
-  top: -15vw;
+  /* top: -15vw; */
+  top: -12rem;
   border-top: 25px solid #fff;
   border-left: 25px solid transparent;
   border-right: 25px solid transparent;
@@ -355,4 +397,3 @@ a{
     border-right: 25px solid transparent;
   }
 }
-
