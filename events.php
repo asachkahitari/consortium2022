@@ -24,7 +24,7 @@
 </style>
 <body style="background-color: #292929;">
   <hr style="border-top: 1px solid #fff;opacity: 0.8;margin-top: 3px;">
-  <span><img src="img/hex.png" class="hexevent" alt=""></span>
+<!--   <span><img src="img/hex.png" class="hexevent" alt=""></span> -->
 
     <h1 class="text-white text-center mt-5" style="font-weight: bold;" >EVENTS</h1>
     <div class="row align-items-center text-center mx-0 mb-3 text-white">
