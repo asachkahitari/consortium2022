@@ -30,8 +30,8 @@
     <div class="col-12 col-md-6 col-lg-4 card  mx-4">
       <img src="img/bb.png" alt="">
     </div>
-    <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/coal.png" alt="">
+    <div class="col-12 col-md-6 col-lg-4 card mx-4 align-items-center">
+      <img src="img/coal.png" alt="" width="204px">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
       <img src="img/pnaf.jpg" alt="">
