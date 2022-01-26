@@ -176,13 +176,6 @@ two.owlCarousel({
   AOS.init();
 </script>
 <script>
-  window.addEventListener('load', () => {
-AOS.init({
-offset: 1700,
-})
-});
-</script>
-<script>
   $(function() {
     $(".preload").fadeOut(3000, function() {
         $(".content").fadeIn(2000);        
