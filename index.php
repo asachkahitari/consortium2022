@@ -3,8 +3,8 @@
 <head>
 <title>Consortium'22 | E-CELL, VNIT</title>
 </head>
-
-<div class="preload"><img src="img/1494.gif"></div>
+<div class="d-flex align-items-center justify-content-center container text-center">
+<div class="preload"><img src="img/1494.gif"></div></div>
 
 
     <body style="background: #292929;" style="margin: 0;">
@@ -99,11 +99,9 @@
     <img src="img/hex.png" class="hexa" alt="" style="bottom: 500px;">
     <!-- SPEAKERS CARDS -->
     <section id="speakers">
-    <h1 class="text-white text-center my-5" data-aos="fade-up"
-    data-aos-duration="2000" style="font-weight: bold; ">SPEAKERS</h1>
+    <h1 class="text-white text-center my-5" style="font-weight: bold; ">SPEAKERS</h1>
 
-    <div class="row align-items-center text-center mx-auto" data-aos="fade-up"
-    data-aos-duration="2000">
+    <div class="row align-items-center text-center mx-auto">
         <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
           <img src="img/karan.jpg" alt="">
           <h5 class="mt-2">KARAN SHAH</h5>
@@ -158,9 +156,8 @@
 
     <!-- EVENTS CARDS -->
     <section id="events">
-    <h1 class="text-white text-center mt-5" style="font-weight: bold;" data-aos="fade-up" data-aos-duration="2000">EVENTS</h1>
-    <div class="row align-items-center text-center mx-0 mb-3 text-white" data-aos="fade-up"
-    data-aos-duration="2000">
+    <h1 class="text-white text-center mt-5" style="font-weight: bold;">EVENTS</h1>
+    <div class="row align-items-center text-center mx-0 mb-3 text-white" >
         <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
             <span class="tag px-4 py-2">PAN NIT</span>
             <img src="img/eco.jpeg" alt="">
@@ -221,8 +218,7 @@
             </div>
           </div> -->
     </div>
-    <div class="col-md-12 text-center mt-2 mb-5 px-5" data-aos="fade-up"
-    data-aos-duration="2000">
+    <div class="col-md-12 text-center mt-2 mb-5 px-5">
       <a href="events.php" target="_blank"><button type="button" class="btn btn3">View all Events</button></a>
   </div>
 </section>
