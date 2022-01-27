@@ -24,10 +24,22 @@
 </style>
 <body style="background-color: #292929;">
   <hr style="border-top: 1px solid #fff;opacity: 0.8;margin-top: 3px;">
-<!--   <span><img src="img/hex.png" class="hexevent" alt=""></span> -->
+  <!-- <span><img src="img/hex.png" class="hexevent" alt=""></span> -->
 
     <h1 class="text-white text-center mt-5" style="font-weight: bold;" >EVENTS</h1>
     <div class="row align-items-center text-center mx-0 mb-3 text-white">
+
+    <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
+            <!-- <span class="tag px-4 py-2">PAN NIT</span> -->
+            <img src="img/suc.jpeg" alt="">
+            <h5 class="mt-2" style="font-weight: bold;">STARTUP CONCLAVE</h5>
+              <h6 class="mt-2 mx-2 pb-3 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
+              <div class="col-md-12 text-right mb-5 mt-2">
+                <a href="" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
+            </div>
+          </div>
+
+          
         <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
             <span class="tag px-4 py-2">PAN NIT</span>
             <img src="img/eco.jpeg" alt="">
@@ -48,15 +60,7 @@
             </div>
           </div>
 
-          <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
-            <!-- <span class="tag px-4 py-2">PAN NIT</span> -->
-            <img src="img/karan.jpg" alt="">
-            <h5 class="mt-2" style="font-weight: bold;">WAR OF WORLDS</h5>
-              <h6 class="mt-2 mx-2 pb-3 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
-              <div class="col-md-12 text-right mb-5 mt-2">
-                <a href="" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
-            </div>
-          </div>
+          
 
           <!-- <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
             <span class="tag px-4 py-2">PAN NIT</span>
