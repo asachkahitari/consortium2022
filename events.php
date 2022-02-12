@@ -101,38 +101,27 @@
     <p>For any sponsorship related queries, do reach out to us</p>
     <div class="row align-items-center">
      <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
-       <img src="img/karan.jpg" alt="">
-       <h5 class="mt-2">Bharghav Choudhary</h5>
+       <img src="img/team/tanvi.jpg" alt="">
+       <h5 class="mt-2">Tanvi Khurana</h5>
        <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-       <h6 class="my-2 desig">TREASURER</h6>
-       <a href="https://www.linkedin.com/in/bhargav-choudhury-2371a7197/" target="_blank" >
+       <h6 class="my-2 desig">Head of Events & Planning</h6>
+       <a href="https://www.linkedin.com/in/tanvi-khurana-1149651b4/" target="_blank" >
          <img id="linkedin" src="img/linkedin_black.png" alt="">
        </a>
-       <div class="name">bharghav@gmail.com</div>
-       <div class="phone">+91 9836726382</div>
+       <div class="name">tksagi1212@gmail.com</div>
+       <div class="phone">+91 77578 20308</div>
      </div>
 
      <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
-       <img src="img/karan.jpg" alt="">
-       <h5 class="mt-2">Bharghav Choudhary</h5>
+       <img src="img/team/bhavishya.jpg" alt="">
+       <h5 class="mt-2">Bhavishya Jain</h5>
        <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-       <h6 class="my-2 desig">TREASURER</h6>
-       <a href="https://www.linkedin.com/in/bhargav-choudhury-2371a7197/" target="_blank" >
+       <h6 class="my-2 desig">Head of Events & Planning</h6>
+       <a href="https://www.linkedin.com/in/bhavishya-jain-212051196/" target="_blank" >
          <img id="linkedin" src="img/linkedin_black.png" alt="">
        </a>
-       <div class="name">bharghav@gmail.com</div>
-       <div class="phone">+91 9836726382</div>
-     </div>
-     <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
-       <img src="img/karan.jpg" alt="">
-       <h5 class="mt-2">Bharghav Choudhary</h5>
-       <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-       <h6 class="my-2 desig">TREASURER</h6>
-       <a href="https://www.linkedin.com/in/bhargav-choudhury-2371a7197/" target="_blank" >
-         <img id="linkedin" src="img/linkedin_black.png" alt="">
-       </a>
-       <div class="name">bharghav@gmail.com</div>
-       <div class="phone">+91 9836726382</div>
+       <div class="name">bhavishyajn7@gmail.com</div>
+       <div class="phone">+91 91306 12265</div>
      </div>
     </div>
    </div>

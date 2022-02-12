@@ -1,10 +1,9 @@
-.content {display:none;}
+/* .content {display:none;}
 .preload { width:100px;
     height: 100px;
     position: fixed;
     top: 45%;
-    /* left: 45%; */
-}
+} */
 
     .hexa {
       -moz-animation: marquee 10s linear infinite;
@@ -398,3 +397,4 @@ a{
     border-right: 25px solid transparent;
   }
 }
+

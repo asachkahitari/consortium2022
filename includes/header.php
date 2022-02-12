@@ -62,7 +62,7 @@
             </div>
           </li>
           <li class="nav-item">
-            <a href="team.php" class="nav-link" target="_blank">Team</a>
+            <a href="core.php" class="nav-link" target="_blank">Team</a>
           </li>
         </ul>
         <li class="nav-item d-none d-lg-block">
@@ -175,13 +175,20 @@ two.owlCarousel({
 <script>
   AOS.init();
 </script>
-<script>
+<!-- <script>
+  window.addEventListener('load', () => {
+AOS.init({
+offset: 1700,
+})
+});
+</script> -->
+<!-- <script>
   $(function() {
     $(".preload").fadeOut(3000, function() {
         $(".content").fadeIn(2000);        
     });
 });
-</script>
+</script> -->
 </head>
 
 </html>

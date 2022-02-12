@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<footer>
+<footer >
     <div class="footbg">
     <img class="red" src="img/redcurve1.png" alt="" width="100%" ">
     <img class="white" src="img/whitecurve2.png" alt="" width="100%">

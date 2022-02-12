@@ -3,14 +3,14 @@
 <head>
 <title>Consortium'22 | E-CELL, VNIT</title>
 </head>
-<div class="d-flex align-items-center justify-content-center container text-center">
-<div class="preload"><img src="img/1494.gif"></div></div>
+<!-- <div class="d-flex align-items-center justify-content-center container text-center">
+<div class="preload"><img src="img/1494.gif"></div></div> -->
 
 
     <body style="background: #292929;" style="margin: 0;">
 
     <!-- MAIN IMAGE -->
-    <div class="content">
+    <div class="contentt">
       <?php include('includes/header.php'); ?>
     <img id="home" class="d-none d-lg-block home" src="img/home.jpeg" style="position: relative;">
     <img id="home_mob" class="d-block d-lg-none" style="width:100%;height:90vh;" src="img/homebg_mob.jpg" alt="">
@@ -38,7 +38,8 @@
 
         <div class="col-12 col-md-5 text-white ml-4 pt-4">
             <h2  style="font-weight: bolder;text-shadow: 0px 1px, 1px 0px, 1px 1px;">ABOUT</h2>
-            <p style="color: rgb(160, 160, 160);font-size: 1.4vw;">Consortium, the Annual Entrepreneurship Summit of VNIT Nagpur comprises of invigorating events like Startup Conclave, Swades and many more. The summit aims at fueling entrepreneurial attitude amongst the students through healthy competition and exciting challenges <br><span style="color: red;"> Get ready to Defy all Odds at Consortium'22.</span></p>
+            <p style="color: rgb(160, 160, 160);font-size: 1.4vw;">Consortium, the Annual Entrepreneurship Summit of VNIT Nagpur comprises invigorating events like Startup Conclave, Chamber of Commerce, Ecopreneur and many more. The summit aims at fueling entrepreneurial attitudes amongst students through healthy competition,exciting challenges and various keynote sessions and panel discussions.
+              <br><span style="color: red;"> Get ready to Defy all Odds at Consortium'22.</span></p>
             <a href=""><button class="btn btn3 " style="font-size: 1.4vw;" >Register Now</button></a><br><br></div>
             
     </div>
@@ -67,7 +68,8 @@
     
             <div class="col-12 col-md-5">
                 
-                <p style="color: rgb(160, 160, 160);font-size: 3.7vw;" class="text-center my-3" >Consortium, the Annual Entrepreneurship Summit of VNIT Nagpur comprises of invigorating events like Startup Conclave, Swades and many more. The summit aims at fueling entrepreneurial attitude amongst the students through healthy competition and exciting challenges <br><span style="color: red;"> Get ready to Defy all Odds at Consortium'22.</span></p>
+                <p style="color: rgb(160, 160, 160);font-size: 3.7vw;" class="text-center my-3" >Consortium, the Annual Entrepreneurship Summit of VNIT Nagpur comprises invigorating events like Startup Conclave, Chamber of Commerce, Ecopreneur and many more. The summit aims at fueling entrepreneurial attitudes amongst students through healthy competition,exciting challenges and various keynote sessions and panel discussions.
+                  <br><span style="color: red;"> Get ready to Defy all Odds at Consortium'22.</span></p>
                 <div class="text-center mt-3 px-5">
                     <a href="" target="_blank"><button type="button" class="btn btn3" style="font-size: 3.7vw;">Register Now</button></a>
                 </div></div>
@@ -78,20 +80,20 @@
     <!-- STATS CARDS  -->
     <div class="row align-items-center" style="margin-top: 100px;" >
         <div class="col-12 col-md-6 col-lg-3 stats p-5 my-2 mx-3" id="counter">
-            <h1><span class="counter-value" data-count="20000"></span><span>+</span></h1>
+            <h1><span class="counter-value" data-count="20"></span><span>+</span></h1>
+            <h2>Events</h2>
+        </div>
+        <div class="col-12 col-md-6 col-lg-3 stats p-5 my-2 mx-3" id="counter">
+          <h1><span class="counter-value" data-count="20"></span><span>+</span></h1>
+            <h2>Speakers</h2>
+        </div>
+        <div class="col-12 col-md-6 col-lg-3 stats p-5 my-2 mx-3" id="counter">
+          <h1><span class="counter-value" data-count="15000"></span><span>+</span></h1>
             <h2>Footfalls</h2>
         </div>
         <div class="col-12 col-md-6 col-lg-3 stats p-5 my-2 mx-3" id="counter">
-          <h1><span class="counter-value" data-count="500"></span><span>+</span></h1>
-            <h2>Startups</h2>
-        </div>
-        <div class="col-12 col-md-6 col-lg-3 stats p-5 my-2 mx-3" id="counter">
-          <h1><span class="counter-value" data-count="100"></span><span>+</span></h1>
+          <h1><span class="counter-value" data-count="250"></span><span>+</span></h1>
             <h2>Colleges</h2>
-        </div>
-        <div class="col-12 col-md-6 col-lg-3 stats p-5 my-2 mx-3" id="counter">
-          <h1><span class="counter-value" data-count="15"></span><span>+</span></h1>
-            <h2>Speakers</h2>
         </div>
     </div>
 
@@ -103,45 +105,45 @@
 
     <div class="row align-items-center text-center mx-auto">
         <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
-          <img src="img/karan.jpg" alt="">
-          <h5 class="mt-2">KARAN SHAH</h5>
+          <img src="img/speakers/simon.jpg" alt="">
+          <h5 class="mt-2">SIMON TAUFEL</h5>
             <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-            <h6 class="my-2 pb-3 desig">Founder & CEO IIDE</h6>
+            <h6 class="my-2 pb-3 desig">Australian cricket umpire</h6>
         </div>
     
         <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
-            <img src="img/karan.jpg" alt="">
-            <h5 class="mt-2">KARAN SHAH</h5>
+            <img src="img/speakers/somdutta.jpg" alt="">
+            <h5 class="mt-2">SOMDUTTA SINGH</h5>
               <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-              <h6 class="my-2 desig pb-3">Founder & CEO IIDE</h6>
+              <h6 class="my-2 desig pb-3">Former Vice-Chairperson of the NASSCOM Product Council</h6>
           </div>
     
           <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
-            <img src="img/karan.jpg" alt="">
-            <h5 class="mt-2">KARAN SHAH</h5>
+            <img src="img/speakers/ashwani.jpg" alt="">
+            <h5 class="mt-2">ASHWANI LOHANI</h5>
               <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-              <h6 class="my-2 desig pb-3">Founder & CEO IIDE</h6>
+              <h6 class="my-2 desig pb-3">Chief Executive Officer of Air India Limited</h6>
           </div>
     
           <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
-            <img src="img/karan.jpg" alt="">
-            <h5 class="mt-2">KARAN SHAH</h5>
+            <img src="img/speakers/sohrab.jpg" alt="">
+            <h5 class="mt-2">SOHRAB SITARAM</h5>
               <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-              <h6 class="my-2 desig pb-3">Founder & CEO IIDE</h6>
+              <h6 class="my-2 desig pb-3">Cofounder & Director - Keventers</h6>
           </div>
     
           <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
-            <img src="img/karan.jpg" alt="">
-            <h5 class="mt-2">KARAN SHAH</h5>
+            <img src="img/speakers/anurag.jpg" alt="">
+            <h5 class="mt-2">ANURAG BATRA</h5>
               <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-              <h6 class="my-2 desig pb-3">Founder & CEO IIDE</h6>
+              <h6 class="my-2 desig pb-3">Chairman & Editor in Chief - BW Businessworld</h6>
           </div>
     
           <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
-            <img src="img/karan.jpg" alt="">
-            <h5 class="mt-2">KARAN SHAH</h5>
+            <img src="img/speakers/nitin.jpg" alt="">
+            <h5 class="mt-2">NITIN BAWANKULE</h5>
               <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-              <h6 class="my-2 desig pb-3">Founder & CEO IIDE</h6>
+              <h6 class="my-2 desig pb-3">Head Ad Sales - Disney Star TV Network</h6>
           </div>
       </div>
 

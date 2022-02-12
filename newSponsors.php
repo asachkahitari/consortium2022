@@ -80,43 +80,43 @@
 
       <span><img src="img/wireframe2.png" alt="" height="700px" style="position: relative;filter: brightness(50%);transform: rotate(-120deg);margin-bottom:-700px;left:120px;bottom:480px;z-index:-1;"></span>
 
-   <div class="heading text-center my-5 container py-3">
+      <div class="heading text-center my-5 container py-3">
      <h2>Contact Us</h2>
      <p>For any sponsorship related queries, do reach out to us</p>
      <div class="row align-items-center">
       <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
-        <img src="img/karan.jpg" alt="">
-        <h5 class="mt-2">Bharghav Choudhary</h5>
+        <img src="img/team/Rajat_.jpg" alt="">
+        <h5 class="mt-2">Rajat Patni</h5>
         <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-        <h6 class="my-2 desig">TREASURER</h6>
-        <a href="https://www.linkedin.com/in/bhargav-choudhury-2371a7197/" target="_blank" >
+        <h6 class="my-2 desig">Head of Corporate Relations</h6>
+        <a href="https://www.linkedin.com/in/rajat-patni-9508211a0/" target="_blank" >
           <img id="linkedin" src="img/linkedin_black.png" alt="">
         </a>
-        <div class="name">bharghav@gmail.com</div>
-        <div class="phone">+91 9836726382</div>
+        <div class="name">rajat.s.patni@gmail.com</div>
+        <div class="phone">+91 70280 81122</div>
       </div>
 
       <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
-        <img src="img/karan.jpg" alt="">
-        <h5 class="mt-2">Bharghav Choudhary</h5>
+        <img src="img/team/nikita.jpg" alt="">
+        <h5 class="mt-2">Nikita Lohiya</h5>
         <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-        <h6 class="my-2 desig">TREASURER</h6>
-        <a href="https://www.linkedin.com/in/bhargav-choudhury-2371a7197/" target="_blank" >
+        <h6 class="my-2 desig">Head of Corporate Relations</h6>
+        <a href="https://www.linkedin.com/in/nikita-lohiya/" target="_blank" >
           <img id="linkedin" src="img/linkedin_black.png" alt="">
         </a>
-        <div class="name">bharghav@gmail.com</div>
-        <div class="phone">+91 9836726382</div>
+        <div class="name">lohiyanikita01@gmail.com</div>
+        <div class="phone">+91 83908 63006</div>
       </div>
       <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
-        <img src="img/karan.jpg" alt="">
+        <img src="img/team/Bhargav.jpg" alt="">
         <h5 class="mt-2">Bharghav Choudhary</h5>
         <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-        <h6 class="my-2 desig">TREASURER</h6>
+        <h6 class="my-2 desig">Head of Corporate Relations</h6>
         <a href="https://www.linkedin.com/in/bhargav-choudhury-2371a7197/" target="_blank" >
           <img id="linkedin" src="img/linkedin_black.png" alt="">
         </a>
-        <div class="name">bharghav@gmail.com</div>
-        <div class="phone">+91 9836726382</div>
+        <div class="name" style="margin-top: -45px;">bhargavchoudhury071<br>@gmail.com</div>
+        <div class="phone">+91 63761 28630</div>
       </div>
      </div>
     </div>

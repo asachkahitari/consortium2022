@@ -16,67 +16,67 @@
 
    <div class="row align-items-center container1 text-center mx-auto" >
      <div class="col-12 col-md-6 col-lg-4 card mx-4">
-       <img src="img/op.jpg" alt="">
+       <img src="img/sponsors/op.jpg" alt="">
      </div>
      <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/azure.jpg" alt="">
+      <img src="img/sponsors/azure.jpg" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/imerys.png" alt="">
+      <img src="img/sponsors/imerys.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/cola.jpg" alt="">
+      <img src="img/sponsors/cola.jpg" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card  mx-4">
-      <img src="img/bb.png" alt="">
+      <img src="img/sponsors/bb.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4 align-items-center">
-      <img src="img/coal.png" alt="" width="204px">
+      <img src="img/sponsors/coal.png" alt="" width="204px">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/pnaf.jpg" alt="">
+      <img src="img/sponsors/pnaf.jpg" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/Digital-india-black.jpg" alt="">
+      <img src="img/sponsors/Digital-india-black.jpg" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/swiggy.jpg" alt="">
+      <img src="img/sponsors/swiggy.jpg" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/startupindia.png" alt="">
+      <img src="img/sponsors/startupindia.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/makeinindia.jpg" alt="">
+      <img src="img/sponsors/makeinindia.jpg" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/moil.jpg" alt="">
+      <img src="img/sponsors/moil.jpg" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/hp.png" alt="">
+      <img src="img/sponsors/hp.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/indianoil.png" alt="">
+      <img src="img/sponsors/indianoil.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/jds.jpg" alt="">
+      <img src="img/sponsors/jds.jpg" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/kinetic.jpg" alt="">
+      <img src="img/sponsors/kinetic.jpg" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/znetlive.png" alt="">
+      <img src="img/sponsors/znetlive.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/msis.png" alt="">
+      <img src="img/sponsors/msis.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/officemate.png" alt="">
+      <img src="img/sponsors/officemate.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/bubblebee.png" alt="">
+      <img src="img/sponsors/bubblebee.png" alt="">
     </div>
     <div class="col-12 col-md-6 col-lg-4 card mx-4">
-      <img src="img/desi.png" alt="">
+      <img src="img/sponsors/desi.png" alt="">
     </div>
    </div>
 
@@ -88,38 +88,38 @@
      <p>For any sponsorship related queries, do reach out to us</p>
      <div class="row align-items-center">
       <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
-        <img src="img/karan.jpg" alt="">
-        <h5 class="mt-2">Bharghav Choudhary</h5>
+        <img src="img/team/Rajat_.jpg" alt="">
+        <h5 class="mt-2">Rajat Patni</h5>
         <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-        <h6 class="my-2 desig">TREASURER</h6>
-        <a href="https://www.linkedin.com/in/bhargav-choudhury-2371a7197/" target="_blank" >
+        <h6 class="my-2 desig">Head of Corporate Relations</h6>
+        <a href="https://www.linkedin.com/in/rajat-patni-9508211a0/" target="_blank" >
           <img id="linkedin" src="img/linkedin_black.png" alt="">
         </a>
-        <div class="name">bharghav@gmail.com</div>
-        <div class="phone">+91 9836726382</div>
+        <div class="name">rajat.s.patni@gmail.com</div>
+        <div class="phone">+91 70280 81122</div>
       </div>
 
       <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
-        <img src="img/karan.jpg" alt="">
-        <h5 class="mt-2">Bharghav Choudhary</h5>
+        <img src="img/team/nikita.jpg" alt="">
+        <h5 class="mt-2">Nikita Lohiya</h5>
         <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-        <h6 class="my-2 desig">TREASURER</h6>
-        <a href="https://www.linkedin.com/in/bhargav-choudhury-2371a7197/" target="_blank" >
+        <h6 class="my-2 desig">Head of Corporate Relations</h6>
+        <a href="https://www.linkedin.com/in/nikita-lohiya/" target="_blank" >
           <img id="linkedin" src="img/linkedin_black.png" alt="">
         </a>
-        <div class="name">bharghav@gmail.com</div>
-        <div class="phone">+91 9836726382</div>
+        <div class="name">lohiyanikita01@gmail.com</div>
+        <div class="phone">+91 83908 63006</div>
       </div>
       <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
-        <img src="img/karan.jpg" alt="">
+        <img src="img/team/Bhargav.jpg" alt="">
         <h5 class="mt-2">Bharghav Choudhary</h5>
         <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-        <h6 class="my-2 desig">TREASURER</h6>
+        <h6 class="my-2 desig">Head of Corporate Relations</h6>
         <a href="https://www.linkedin.com/in/bhargav-choudhury-2371a7197/" target="_blank" >
           <img id="linkedin" src="img/linkedin_black.png" alt="">
         </a>
-        <div class="name">bharghav@gmail.com</div>
-        <div class="phone">+91 9836726382</div>
+        <div class="name" style="margin-top: -45px;">bhargavchoudhury071<br>@gmail.com</div>
+        <div class="phone">+91 63761 28630</div>
       </div>
      </div>
     </div>

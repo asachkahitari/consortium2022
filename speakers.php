@@ -11,64 +11,120 @@
   <img src="img/hex.png" alt="" style="position: relative;bottom: 230px;opacity: 0.8;margin-bottom: -550px;z-index: -1;" class="hexa" width="450px">
   <div class="row align-items-center container1 text-center mx-auto" >
     <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
-      <img src="img/karan.jpg" alt="">
-      <h5 class="mt-2">KARAN SHAH</h5>
+      <img src="img/speakers/divya.jpg" alt="">
+      <h5 class="mt-2">DIVYA GANESH</h5>
         <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-        <h6 class="my-2 pb-3 desig">Founder & CEO IIDE</h6>
+        <h6 class="my-2 pb-3 desig">Director - Digital Delivery at McKinsey & Company</h6>
     </div>
 
     <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
+        <img src="img/speakers/shirish.jpg" alt="">
+        <h5 class="mt-2">SHIRISH ANDHARE</h5>
+          <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
+          <h6 class="my-2 desig pb-3">Director & Head of Product, Twitter</h6>
+      </div>
+
+      <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
+        <img src="img/speakers/ravi.jpg" alt="">
+        <h5 class="mt-2">RAVI BATTULA</h5>
+          <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
+          <h6 class="my-2 desig pb-3">Head Merchant Acquiring Solutions at Wibmo</h6>
+      </div>
+
+      <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
+        <img src="img/speakers/farhad.jpg" alt="">
+        <h5 class="mt-2">FARHAD ACIDWALLA</h5>
+          <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
+          <h6 class="my-2 desig pb-3">Founder - CYBERNETIV DIGITAL</h6>
+      </div>
+
+      <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
+        <img src="img/speakers/jatin.jpg" alt="">
+        <h5 class="mt-2">JATIN SAPRU</h5>
+          <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
+          <h6 class="my-2 desig pb-3">Sports Broadcaster</h6>
+      </div>
+
+      <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
         <img src="img/karan.jpg" alt="">
+        <h5 class="mt-2">DIPANKAR BOSE</h5>
+          <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
+          <h6 class="my-2 desig pb-3">Founder & CEO IIDE</h6>
+      </div>
+
+      <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
+        <img src="img/speakers/amit.jpg" alt="">
+        <h5 class="mt-2">AMIT CHATTERJEE</h5>
+          <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
+          <h6 class="my-2 desig pb-3">Executive Coach & Entrepreneur at Self-Employed</h6>
+      </div>
+
+      <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
+        <img src="img/speakers/santosh.jpg" alt="">
+        <h5 class="mt-2">SANTOSH PANPALIYA</h5>
+          <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
+          <h6 class="my-2 desig pb-3">Vice President & Head HR - Global Delivery at Infosys</h6>
+      </div>
+
+      <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
+        <img src="img/speakers/karan.jpg" alt="">
         <h5 class="mt-2">KARAN SHAH</h5>
           <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
           <h6 class="my-2 desig pb-3">Founder & CEO IIDE</h6>
       </div>
 
       <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
-        <img src="img/karan.jpg" alt="">
-        <h5 class="mt-2">KARAN SHAH</h5>
+        <img src="img/speakers/harsh.jpg" alt="">
+        <h5 class="mt-2">HARSH GOELA</h5>
           <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-          <h6 class="my-2 desig pb-3">Founder & CEO IIDE</h6>
+          <h6 class="my-2 desig pb-3">Co-Founder Goela School of Finance</h6>
       </div>
 
       <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
-        <img src="img/karan.jpg" alt="">
-        <h5 class="mt-2">KARAN SHAH</h5>
+        <img src="img/speakers/jay.jpg" alt="">
+        <h5 class="mt-2">JAY ALANI</h5>
           <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-          <h6 class="my-2 desig pb-3">Founder & CEO IIDE</h6>
+          <h6 class="my-2 desig pb-3">Founder- The Paranormal Company</h6>
       </div>
 
       <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
-        <img src="img/karan.jpg" alt="">
-        <h5 class="mt-2">KARAN SHAH</h5>
+        <img src="img/speakers/balaji.jpg" alt="">
+        <h5 class="mt-2">BALAJI VISWANATHAN</h5>
           <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-          <h6 class="my-2 desig pb-3">Founder & CEO IIDE</h6>
+          <h6 class="my-2 desig pb-3">CEO of Invento Research Inc</h6>
       </div>
 
       <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
-        <img src="img/karan.jpg" alt="">
-        <h5 class="mt-2">KARAN SHAH</h5>
+        <img src="img/speakers/arun.jpg" alt="">
+        <h5 class="mt-2">ARUN MALHOTRA</h5>
           <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-          <h6 class="my-2 desig pb-3">Founder & CEO IIDE</h6>
+          <h6 class="my-2 desig pb-3">Auto Industry Expert - Former MD Nissan Motors India</h6>
       </div>
 
       <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
-        <img src="img/karan.jpg" alt="">
-        <h5 class="mt-2">KARAN SHAH</h5>
+        <img src="img/speakers/alok.jpg" alt="">
+        <h5 class="mt-2">ALOK SARAOGI</h5>
           <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-          <h6 class="my-2 desig pb-3">Founder & CEO IIDE</h6>
+          <h6 class="my-2 desig pb-3">SVP & Head of Marketing at TVS Automobile Solutions Pvt Ltd</h6>
       </div>
 
       <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
-        <img src="img/karan.jpg" alt="">
-        <h5 class="mt-2">KARAN SHAH</h5>
+        <img src="img/speakers/kapil.jpg" alt="">
+        <h5 class="mt-2">KAPIL KAPOOR</h5>
           <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-          <h6 class="my-2 desig pb-3">Founder & CEO IIDE</h6>
+          <h6 class="my-2 desig pb-3">Chief Technology Officer - Chicago Booth MBA & INSEAD </h6>
       </div>
 
       <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
-        <img src="img/karan.jpg" alt="">
-        <h5 class="mt-2">KARAN SHAH</h5>
+        <img src="img/speakers/satish.jpg" alt="">
+        <h5 class="mt-2">SATISH KRISHNAN</h5>
+          <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
+          <h6 class="my-2 desig pb-3">Former MD & Head, Financial Markets Standard Chartered Bank</h6>
+      </div>
+
+      <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
+        <img src="img/speakers/karan.jpg" alt="">
+        <h5 class="mt-2">ADITYA IYER</h5>
           <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
           <h6 class="my-2 desig pb-3">Founder & CEO IIDE</h6>
       </div>
@@ -81,39 +137,29 @@
     <p>For any sponsorship related queries, do reach out to us</p>
     <div class="row align-items-center">
      <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
-       <img src="img/karan.jpg" alt="">
-       <h5 class="mt-2">Bharghav Choudhary</h5>
+       <img src="img/team/jay.jpg" alt="">
+       <h5 class="mt-2">Jay Chheda</h5>
        <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-       <h6 class="my-2 desig">TREASURER</h6>
-       <a href="https://www.linkedin.com/in/bhargav-choudhury-2371a7197/" target="_blank" >
+       <h6 class="my-2 desig">Head of Public Relations</h6>
+       <a href="https://www.linkedin.com/in/jay-chheda-8739a0192/" target="_blank" >
          <img id="linkedin" src="img/linkedin_black.png" alt="">
        </a>
-       <div class="name">bharghav@gmail.com</div>
-       <div class="phone">+91 9836726382</div>
+       <div class="name">jaychheda2410@gmail.com</div>
+       <div class="phone">+91 98700 36145</div>
      </div>
 
      <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
-       <img src="img/karan.jpg" alt="">
-       <h5 class="mt-2">Bharghav Choudhary</h5>
+       <img src="img/team/snehal.jpg" alt="">
+       <h5 class="mt-2">Snehal Patil</h5>
        <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-       <h6 class="my-2 desig">TREASURER</h6>
-       <a href="https://www.linkedin.com/in/bhargav-choudhury-2371a7197/" target="_blank" >
+       <h6 class="my-2 desig">Head of Public Relations</h6>
+       <a href="https://www.linkedin.com/in/snehal-patil-10b08a1a7/" target="_blank" >
          <img id="linkedin" src="img/linkedin_black.png" alt="">
        </a>
-       <div class="name">bharghav@gmail.com</div>
-       <div class="phone">+91 9836726382</div>
+       <div class="name">snehalpatil1801@gmail.com</div>
+       <div class="phone">+91 94231 32631</div>
      </div>
-     <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
-       <img src="img/karan.jpg" alt="">
-       <h5 class="mt-2">Bharghav Choudhary</h5>
-       <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-       <h6 class="my-2 desig">TREASURER</h6>
-       <a href="https://www.linkedin.com/in/bhargav-choudhury-2371a7197/" target="_blank" >
-         <img id="linkedin" src="img/linkedin_black.png" alt="">
-       </a>
-       <div class="name">bharghav@gmail.com</div>
-       <div class="phone">+91 9836726382</div>
-     </div>
+     
     </div>
    </div>
 
