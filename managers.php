@@ -48,6 +48,9 @@
           <a href="https://www.linkedin.com/in/aman-nahata-a24404210/" target="_blank"><h5>Aman Nahata <i class="fa fa-linkedin"></i></h5></a>
         </div>
         <div class="col-12 col-6 col-lg-4 managerName2 mx-1 my-2 pt-3 pb-2 px-5">
+          <a href="https://www.linkedin.com/in/ashish-nagori-3306b520a/" target="_blank"><h5>Ashish Nagori <i class="fa fa-linkedin"></i></h5></a>
+        </div>
+        <div class="col-12 col-6 col-lg-4 managerName2 mx-1 my-2 pt-3 pb-2 px-5">
           <a href="https://www.linkedin.com/in/devi-dweejareddy-b12508204/" target="_blank"><h5>Dweeja Reddy Devi <i class="fa fa-linkedin"></i></h5></a>
         </div>
         <div class="col-12 col-6 col-lg-4 managerName2 mx-1 my-2 pt-3 pb-2 px-5">
