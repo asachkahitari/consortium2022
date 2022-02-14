@@ -5,7 +5,7 @@
 </head>
 <?php include('includes/header.php')?>
 <body style="background-color: #292929;">
-<hr style="border-top: 1px solid #fff;opacity: 0.8;margin-top: 3px;">
+<hr style="border-top: 1px solid #fff;opacity: 0.8;margin-top: 3px;" class="mt-2">
   <h1 class="text-white text-center mt-5" style="font-weight: bold;" >SPEAKERS</h1>
  
   <img src="img/hex.png" alt="" style="position: relative;bottom: 230px;opacity: 0.8;margin-bottom: -550px;z-index: -1;" class="hexa" width="450px">

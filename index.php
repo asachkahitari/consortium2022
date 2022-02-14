@@ -3,14 +3,14 @@
 <head>
 <title>Consortium'22 | E-CELL, VNIT</title>
 </head>
-<!-- <div class="d-flex align-items-center justify-content-center container text-center">
-<div class="preload"><img src="img/1494.gif"></div></div> -->
+<div class="d-flex align-items-center justify-content-center container text-center">
+<div class="preload"><img src="img/1494.gif"></div></div>
 
 
     <body style="background: #292929;" style="margin: 0;">
 
     <!-- MAIN IMAGE -->
-    <div class="contentt">
+    <div class="content">
       <?php include('includes/header.php'); ?>
     <img id="home" class="d-none d-lg-block home" src="img/home.jpeg" style="position: relative;">
     <img id="home_mob" class="d-block d-lg-none" style="width:100%;height:90vh;" src="img/homebg_mob.jpg" alt="">
@@ -22,7 +22,7 @@
         <div class="col-12 col-md-5">
             <div class="owl-carousel owl-theme pt-5" id="one">
                 <div class="item">
-                    <img src="img/pic1.jpg" alt="">
+                    <img src="img/pic1.png" alt="">
                 </div>
                 <div class="item">
                     <img src="img/pic2.jpg" alt="">
@@ -52,7 +52,7 @@
             <div class="col-12 col-md-5">
                 <div class="owl-carousel owl-theme" id="two">
                     <div class="item">
-                        <img src="img/pic1.jpg" alt="">
+                        <img src="img/pic1.png" alt="">
                     </div>
                     <div class="item">
                         <img src="img/pic2.jpg" alt="">
@@ -167,7 +167,7 @@
         <h5 class="mt-2" style="font-weight: bold;">STARTUP CONCLAVE</h5>
           <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
           <div class="col-md-12 text-right mb-5 mt-2">
-            <a href="" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
+            <a href="https://startupconclave.ecellvnit.org/" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
         </div>
       </div>
       
@@ -177,17 +177,17 @@
             <h5 class="mt-2" style="font-weight: bold;">ECOPRENEUR</h5>
               <h6 class="mt-2 mx-2 pb-3 text-white text-left desc ">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
               <div class="col-md-12 text-right mb-5 mt-2">
-                <a href="" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
+                <a href="https://www.ecellvnit.org/ecopreneur/index.php" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
             </div>
           </div>
 
           <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
-            <!-- <span class="tag px-4 py-2">PAN NIT</span> -->
-            <img src="img/neo.jpeg" alt="">
-            <h5 class="mt-2" style="font-weight: bold;">NEO</h5>
+            <span class="tag px-4 py-2">PAN NIT</span>
+            <img src="img/coc.jpg" alt="">
+            <h5 class="mt-2" style="font-weight: bold;">CHAMBER OF COMMERCE</h5>
               <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
               <div class="col-md-12 text-right mb-5 mt-2">
-                <a href="" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
+                <a href="https://www.ecellvnit.org/coc/" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
             </div>
           </div>
 

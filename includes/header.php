@@ -182,13 +182,13 @@ offset: 1700,
 })
 });
 </script> -->
-<!-- <script>
+<script>
   $(function() {
     $(".preload").fadeOut(3000, function() {
         $(".content").fadeIn(2000);        
     });
 });
-</script> -->
+</script>
 </head>
 
 </html>

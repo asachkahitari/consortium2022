@@ -118,7 +118,7 @@
         <a href="https://www.linkedin.com/in/bhargav-choudhury-2371a7197/" target="_blank" >
           <img id="linkedin" src="img/linkedin_black.png" alt="">
         </a>
-        <div class="name" style="margin-top: -45px;">bhargavchoudhury071<br>@gmail.com</div>
+        <div class="name" style="font-size:13px">bhargavchoudhury071@gmail.com</div>
         <div class="phone">+91 63761 28630</div>
       </div>
      </div>
