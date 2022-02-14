@@ -12,8 +12,8 @@
             
     
             <div class="col-12 col-md-5 text-white ml-4 pt-4">
-                <h1  style="font-weight: 900;text-shadow: 0px 1px, 1px 0px, 1px 1px;font-size: 3.5rem;">CEO</h1>
-                <h5  style="font-weight: 500;text-shadow: 0px 1px, 1px 0px, 1px 1px;font-size: 1.3rem;">UNCOVER THE FUTURE LEADERS</h5>
+                <h1  style="font-weight: 900;text-shadow: 0px 1px, 1px 0px, 1px 1px;font-size: 3.5rem;" data-aos="fade-down" data-aos-duration="2000">CEO</h1>
+                <h5  style="font-weight: 500;text-shadow: 0px 1px, 1px 0px, 1px 1px;font-size: 1.3rem;" data-aos="fade-right" data-aos-duration="2000">UNCOVER THE FUTURE LEADERS</h5>
                 <p style="color: #D5242A;font-size: 1.4vw;">Real problems, real losses, and real disagreements in search of real solutions
                 Do you have what it takes to be a CEO?
                 </p>
@@ -134,7 +134,7 @@
         <h1  style="font-weight: 900;font-size: 2.3rem;" class="text-white my-4">TIMELINE</h1>
         <div id="horizontal-timeline" class="timeline horizontal reverse">
             <div class="block">
-              <div class="square up">
+              <div class="square up" data-aos="fade-down" data-aos-duration="2000">
                 <h3>REGISTRATION CUM QUALIFYING ROUND</h3>
                 <h4>15 Feb-15 March</h4>
               </div>
@@ -150,13 +150,13 @@
                 <p>2</p>
               </div>
               <div class="link"></div>
-              <div class="square down">
+              <div class="square down" data-aos="fade-up" data-aos-duration="2000">
                 <h3>WEBINAR FOR ROUND 1</h3>
                 <h4>19th March</h4>
               </div>
             </div>
             <div class="block">
-              <div class="square up">
+              <div class="square up" data-aos="fade-down" data-aos-duration="2000">
                 <h3>ROUND 1: GROUP DISCUSSION</h3>
                 <h4>20th March</h4>
               </div>
@@ -172,14 +172,14 @@
                 <p>4</p>
               </div>
               <div class="link"></div>
-              <div class="square down">
+              <div class="square down" data-aos="fade-up" data-aos-duration="2000">
                 <h3>WORKSHOP</h3>
                 <h4>2nd April</h4>
               </div>
             </div>
           
             <div class="block">
-              <div class="square up">
+              <div class="square up" data-aos="fade-down" data-aos-duration="2000">
                 <h3>ROUND 2: MARKETISTAAN</h3>
                 <h4>3rd April</h4>
               </div>
@@ -196,7 +196,7 @@
                   <p>6</p>
                 </div>
                 <div class="link"></div>
-                <div class="square down">
+                <div class="square down" data-aos="fade-up" data-aos-duration="2000">
                   <h3>ROUND 3: THE BOARDROOM DILEMMA</h3>
                   <h4>9th April</h4>
                 </div>
@@ -210,7 +210,7 @@
         <h1  style="font-weight: 900;font-size: 2.3rem;" class="text-white my-5">TIMELINE</h1>
         <div id="vertical-timeline" class="timeline vertical">
             <div class="block">
-              <div class="square right vert">
+              <div class="square right vert"data-aos="fade-right" data-aos-duration="2000" >
                 <h3>REGISTRATION CUM QUALIFYING ROUND</h3>
                 <h4>15 Feb-15 March</h4>
               </div>
@@ -227,14 +227,14 @@
                 <p>2</p>
               </div>
               <div class="link"></div>
-              <div class="square left vert">
+              <div class="square left vert" data-aos="fade-left" data-aos-duration="2000">
                 <h3>WEBINAR FOR ROUND 1</h3>
                 <h4>19th March</h4>
               </div>
             </div>
           
             <div class="block">
-              <div class="square right vert">
+              <div class="square right vert" data-aos="fade-right" data-aos-duration="2000">
                 <h3>ROUND 1: GROUP DISCUSSION</h3>
                 <h4>20th March</h4>
               </div>
@@ -251,14 +251,14 @@
                 <p>4</p>
               </div>
               <div class="link"></div>
-              <div class="square left vert">
+              <div class="square left vert" data-aos="fade-left" data-aos-duration="2000">
                 <h3>WORKSHOP</h3>
                 <h4>2nd April</h4>
               </div>
             </div>
           
             <div class="block">
-              <div class="square right vert">
+              <div class="square right vert" data-aos="fade-right" data-aos-duration="2000">
                 <h3>ROUND 2: MARKETISTAAN</h3>
                 <h4>3rd April</h4>
               </div>
@@ -275,7 +275,7 @@
                   <p>6</p>
                 </div>
                 <div class="link"></div>
-                <div class="square left vert">
+                <div class="square left vert" data-aos="fade-left" data-aos-duration="2000">
                   <h3>ROUND 3: THE BOARDROOM DILEMMA</h3>
                   <h4>9th April</h4>
                 </div>
@@ -289,7 +289,7 @@
             <h1  style="font-weight: 900;font-size: 2.3rem;color: #D5242A;">Contact Us</h1>
             <p class="px-3 my-4">For any event related queries, do reach out to us</p>
             <div class="row align-items-center">
-                <div class="contactcard col-12 col-md-6 col-lg-4 mx-4" style="height: auto;border-radius: 25px;">
+                <div class="contactcard col-12 col-md-6 col-lg-4 mx-4" style="height: auto;border-radius: 25px;" data-aos="fade-up" data-aos-duration="2000">
                     <h5 class="mt-2 pt-3">Prathamesh Rathod</h5>
                     <a class="ml-4" href="https://www.linkedin.com/in/prathamesh-rathod-416603202/" target="_blank" >
                         <img id="linkedin" src="img/linkedin_black.png" alt="">
@@ -297,28 +297,28 @@
                     <!-- <div class="name">bhargav@gmail.com</div> -->
                     <div class="phone pb-4" style="margin-top: -30px;">+91 93259 84265</div>
                 </div>
-                <div class="contactcard col-12 col-md-6 col-lg-4 mx-4" style="height: auto;border-radius: 25px;">
+                <div class="contactcard col-12 col-md-6 col-lg-4 mx-4" style="height: auto;border-radius: 25px;" data-aos="fade-up" data-aos-duration="2000">
                     <h5 class="mt-2 pt-3">Ummeemum Husain</h5>
                     <a class="ml-4" href="" target="_blank" >
                         <img id="linkedin" src="img/linkedin_black.png" alt="">
                     </a>
                     <div class="phone pb-4" style="margin-top: -30px;">+91 91563 77253</div>
                 </div>
-                <div class="contactcard col-12 col-md-6 col-lg-4 mx-4" style="height: auto;border-radius: 25px;">
+                <div class="contactcard col-12 col-md-6 col-lg-4 mx-4" style="height: auto;border-radius: 25px;" data-aos="fade-up" data-aos-duration="2000">
                     <h5 class="mt-2 pt-3">Dishant Sharma</h5>
                     <a class="ml-4" href="https://www.linkedin.com/in/dishant-sharma-2321a1204/" target="_blank" >
                         <img id="linkedin" src="img/linkedin_black.png" alt="">
                     </a>
                     <div class="phone pb-4" style="margin-top: -30px;">+91 93508 13124</div>
                 </div>
-                <div class="contactcard col-12 col-md-6 col-lg-4 mx-4" style="height: auto;border-radius: 25px;">
+                <div class="contactcard col-12 col-md-6 col-lg-4 mx-4" style="height: auto;border-radius: 25px;" data-aos="fade-up" data-aos-duration="2000">
                     <h5 class="mt-2 pt-3">Dhanshree  Warokar</h5>
                     <a class="ml-4" href="https://www.linkedin.com/in/dhanshree-warokar-2301b5227/" target="_blank" >
                         <img id="linkedin" src="img/linkedin_black.png" alt="">
                     </a>
                     <div class="phone pb-4" style="margin-top: -30px;">+91 74981 81118</div>
                 </div>
-                <div class="contactcard col-12 col-md-6 col-lg-4 mx-4" style="height: auto;border-radius: 25px;">
+                <div class="contactcard col-12 col-md-6 col-lg-4 mx-4" style="height: auto;border-radius: 25px;" data-aos="fade-up" data-aos-duration="2000">
                     <h5 class="mt-2 pt-3">Tanishqa Mishra</h5>
                     <a class="ml-4" href="https://www.linkedin.com/in/tanishqa-mishra-406ab5209/" target="_blank" >
                         <img id="linkedin" src="img/linkedin_black.png" alt="">
