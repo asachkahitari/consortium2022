@@ -157,13 +157,16 @@
       </div>
       
       
-      <button type="button"  class="btnman wall btn-block py-3 my-3 mx-auto" onclick="Function6()" data-aos="fade-left" data-aos-duration="2000">Wallstreet <i class="fa fa-caret-down"></i></button>
+      <button type="button"  class="btnman wall btn-block py-3 my-3 mx-auto" onclick="Function6()" data-aos="fade-left" data-aos-duration="2000">Wallstreet & Cryptowin <i class="fa fa-caret-down"></i></button>
       <div class="row my-4 hidden" id="hidden6">
         <div class="col-12 col-6 col-lg-4 managerName6 mx-1 my-2 pt-3 pb-2 px-5">
           <a href="https://www.linkedin.com/in/aryan-mahure-5ba135112/" target="_blank"><h5>Aryan Mahure <i class="fa fa-linkedin"></i></h5></a>
         </div>
         <div class="col-12 col-6 col-lg-4 managerName6 mx-1 my-2 pt-3 pb-2 px-5">
           <a href="https://www.linkedin.com/in/pranjali-kulkarni-19a8501bb/" target="_blank"><h5>Pranjali Kulkarni <i class="fa fa-linkedin"></i></h5></a>
+        </div>
+        <div class="col-12 col-6 col-lg-4 managerName6 mx-1 my-2 pt-3 pb-2 px-5">
+          <a href="https://www.linkedin.com/in/samruddhi-wagh-96096b218/" target="_blank"><h5>Samruddhi Wagh <i class="fa fa-linkedin"></i></h5></a>
         </div>
         <div class="col-12 col-6 col-lg-4 managerName6 mx-1 my-2 pt-3 pb-2 px-5">
           <a href="https://www.linkedin.com/in/sourabh-bedkute-61b168179/" target="_blank"><h5>Sourabh Bedkute <i class="fa fa-linkedin"></i></h5></a>
@@ -177,24 +180,7 @@
       </div>
       
 
-      <button type="button"  class="btnman crypto btn-block py-3 my-3 mx-auto" onclick="Function7()" data-aos="fade-right" data-aos-duration="2000">Cryptowin <i class="fa fa-caret-down"></i></button>
-      <div class="row my-4 hidden" id="hidden7">
-        <div class="col-12 col-6 col-lg-4 managerName7 mx-1 my-2 pt-3 pb-2 px-5">
-          <a href="" target="_blank"><h5> <i class="fa fa-linkedin"></i></h5></a>
-        </div>
-        <div class="col-12 col-6 col-lg-4 managerName7 mx-1 my-2 pt-3 pb-2 px-5">
-          <a href="" target="_blank"><h5> <i class="fa fa-linkedin"></i></h5></a>
-        </div>
-        <div class="col-12 col-6 col-lg-4 managerName7 mx-1 my-2 pt-3 pb-2 px-5">
-          <a href="" target="_blank"><h5> <i class="fa fa-linkedin"></i></h5></a>
-        </div>
-        <div class="col-12 col-6 col-lg-4 managerName7 mx-1 my-2 pt-3 pb-2 px-5">
-          <a href="" target="_blank"><h5> <i class="fa fa-linkedin"></i></h5></a>
-        </div>
-        <div class="col-12 col-6 col-lg-4 managerName7 mx-1 my-2 pt-3 pb-2 px-5">
-          <a href="" target="_blank"><h5> <i class="fa fa-linkedin"></i></h5></a>
-        </div>
-      </div>
+      
 
 
       <button type="button"  class="btnman ad btn-block py-3 my-3 mx-auto" onclick="Function8()" data-aos="fade-left" data-aos-duration="2000">Adventure <i class="fa fa-caret-down"></i></button>
@@ -226,6 +212,25 @@
         </div>
         <div class="col-12 col-6 col-lg-4 managerName9 mx-1 my-2 pt-3 pb-2 px-5">
           <a href="https://www.linkedin.com/in/rutushrirame/" target="_blank"><h5>Rutu Shrirame <i class="fa fa-linkedin"></i></h5></a>
+        </div>
+      </div>
+
+      <button type="button"  class="btnman crypto btn-block py-3 my-3 mx-auto" onclick="Function7()" data-aos="fade-right" data-aos-duration="2000">EntreMUN <i class="fa fa-caret-down"></i></button>
+      <div class="row my-4 hidden" id="hidden7">
+        <div class="col-12 col-6 col-lg-4 managerName7 mx-1 my-2 pt-3 pb-2 px-5">
+          <a href="" target="_blank"><h5> <i class="fa fa-linkedin"></i></h5></a>
+        </div>
+        <div class="col-12 col-6 col-lg-4 managerName7 mx-1 my-2 pt-3 pb-2 px-5">
+          <a href="" target="_blank"><h5> <i class="fa fa-linkedin"></i></h5></a>
+        </div>
+        <div class="col-12 col-6 col-lg-4 managerName7 mx-1 my-2 pt-3 pb-2 px-5">
+          <a href="" target="_blank"><h5> <i class="fa fa-linkedin"></i></h5></a>
+        </div>
+        <div class="col-12 col-6 col-lg-4 managerName7 mx-1 my-2 pt-3 pb-2 px-5">
+          <a href="" target="_blank"><h5> <i class="fa fa-linkedin"></i></h5></a>
+        </div>
+        <div class="col-12 col-6 col-lg-4 managerName7 mx-1 my-2 pt-3 pb-2 px-5">
+          <a href="" target="_blank"><h5> <i class="fa fa-linkedin"></i></h5></a>
         </div>
       </div>
       <span><img src="img/wireframe.png" alt="" width="1300px" style="position: relative;bottom: 1050px;z-index:-1;margin-bottom: -1280px;left: -10px;opacity: 0.7;"></span>
