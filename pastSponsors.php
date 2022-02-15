@@ -87,8 +87,8 @@
      <h2>Contact Us</h2>
      <p>For any sponsorship related queries, do reach out to us</p>
      <div class="row align-items-center">
-      <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
-        <img src="img/team/Rajat_.jpg" alt="">
+      <div class="col-12 col-md-6 col-lg-4 contactcard mx-4" style="height: 365px;width: 280px;">
+        <img src="img/team/Rajat_.jpg" style="height: 230px;width: 280px;" alt="">
         <h5 class="mt-2">Rajat Patni</h5>
         <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
         <h6 class="my-2 desig">Head of Corporate Relations</h6>
@@ -99,8 +99,8 @@
         <div class="phone">+91 70280 81122</div>
       </div>
 
-      <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
-        <img src="img/team/nikita.jpg" alt="">
+      <div class="col-12 col-md-6 col-lg-4 contactcard mx-4"  style="height: 365px;width: 280px;">
+        <img src="img/team/nikita.jpg" style="height: 230px;width: 280px;" alt="">
         <h5 class="mt-2">Nikita Lohiya</h5>
         <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
         <h6 class="my-2 desig">Head of Corporate Relations</h6>
@@ -110,8 +110,8 @@
         <div class="name">lohiyanikita01@gmail.com</div>
         <div class="phone">+91 83908 63006</div>
       </div>
-      <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
-        <img src="img/team/Bhargav.jpg" alt="">
+      <div class="col-12 col-md-6 col-lg-4 contactcard mx-4" style="height: 365px;width: 280px;">
+        <img src="img/team/Bhargav.jpg" style="height: 230px;width: 280px;" alt="">
         <h5 class="mt-2">Bharghav Choudhary</h5>
         <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
         <h6 class="my-2 desig">Head of Corporate Relations</h6>

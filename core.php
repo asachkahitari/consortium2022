@@ -20,40 +20,25 @@
 
         <!-- MEMBER 1 -->
         <div class="row align-items-center">
-         <div class="col-12 col-md-6 col-lg-4 contactcard">
-           <img src="img/team/bhatt-sir.jpeg" alt="">
-           <h5 class="mt-2">DR. SS BHAT</h5>
+         <div class="col-12 col-md-6 col-lg-4 contactcard" style="height: 320px;">
+           <img src="img/team/bhatt-sir.jpeg" style="height: 220px;" alt="">
+           <h5 class="mt-3">DR. SS BHAT</h5>
            <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
            <h6 class="my-2 desig">PROFESSOR INCHARGE</h6>
-           <a href="https://www.linkedin.com/in/bhargav-choudhury-2371a7197/" target="_blank" >
-             <img id="linkedin" src="img/linkedin_black.png" alt="">
-           </a>
-           <div class="name">bharghav@gmail.com</div>
-           <div class="phone">+91 9836726382</div>
          </div>
          <!-- MEMBER 2 -->
-         <div class="col-12 col-md-6 col-lg-4 contactcard">
-           <img src="img/team/taiwade-sir.jpeg" alt="">
-           <h5 class="mt-2">DR. RV TAIWADE</h5>
+         <div class="col-12 col-md-6 col-lg-4 contactcard" style="height: 320px;">
+           <img src="img/team/taiwade-sir.jpeg" style="height: 220px;" alt="">
+           <h5 class="mt-3">DR. RV TAIWADE</h5>
            <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
            <h6 class="my-2 desig">PROFESSOR INCHARGE</h6>
-           <a href="https://www.linkedin.com/in/bhargav-choudhury-2371a7197/" target="_blank" >
-             <img id="linkedin" src="img/linkedin_black.png" alt="">
-           </a>
-           <div class="name">bharghav@gmail.com</div>
-           <div class="phone">+91 9836726382</div>
          </div>
           <!-- MEMBER 3 -->
-         <div class="col-12 col-md-6 col-lg-4 contactcard">
-           <img src="img/team/Karthik_Balasundaram.webp" alt="">
-           <h5 class="mt-2">Karthik Balasundaram</h5>
+         <div class="col-12 col-md-6 col-lg-4 contactcard" style="height: 320px;">
+           <img src="img/team/Karthik_Balasundaram.webp" style="height: 220px;" alt="">
+           <h5 class="mt-3">Karthik Balasundaram</h5>
            <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
            <h6 class="my-2 desig">PROFESSOR INCHARGE</h6>
-           <a href="https://www.linkedin.com/in/bhargav-choudhury-2371a7197/" target="_blank" >
-             <img id="linkedin" src="img/linkedin_black.png" alt="">
-           </a>
-           <div class="name">bharghav@gmail.com</div>
-           <div class="phone">+91 9836726382</div>
          </div>
         </div>
         <div><img class="hexteam" src="img/hex.png" alt="" width="450px"></div>

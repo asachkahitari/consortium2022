@@ -45,12 +45,12 @@
           <h6 class="my-2 desig pb-3">Sports Broadcaster</h6>
       </div>
 
-      <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
+      <!-- <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
         <img src="img/karan.jpg" alt="">
         <h5 class="mt-2">DIPANKAR BOSE</h5>
           <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
           <h6 class="my-2 desig pb-3">Founder & CEO IIDE</h6>
-      </div>
+      </div> -->
 
       <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
         <img src="img/speakers/amit.jpg" alt="">
@@ -122,12 +122,12 @@
           <h6 class="my-2 desig pb-3">Former MD & Head, Financial Markets Standard Chartered Bank</h6>
       </div>
 
-      <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
+      <!-- <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
         <img src="img/speakers/karan.jpg" alt="">
         <h5 class="mt-2">ADITYA IYER</h5>
           <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
           <h6 class="my-2 desig pb-3">Founder & CEO IIDE</h6>
-      </div>
+      </div> -->
   </div>
 
   <span><img src="img/wireframe.png" alt="" width="1300px" style="position: relative;bottom: 1050px;z-index:-1;margin-bottom: -1280px;left: -10px;opacity: 0.7;"></span>
@@ -136,8 +136,8 @@
     <h2>Contact Us</h2>
     <p>For any sponsorship related queries, do reach out to us</p>
     <div class="row align-items-center">
-     <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
-       <img src="img/team/jay.jpg" alt="">
+     <div class="col-12 col-md-6 col-lg-4 contactcard mx-4" style="height: 365px;width: 290px;">
+       <img src="img/team/jay.jpg" style="height: 230px;width: 290px;" alt="">
        <h5 class="mt-2">Jay Chheda</h5>
        <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
        <h6 class="my-2 desig">Head of Public Relations</h6>
@@ -148,8 +148,8 @@
        <div class="phone">+91 98700 36145</div>
      </div>
 
-     <div class="col-12 col-md-6 col-lg-4 contactcard mx-4">
-       <img src="img/team/snehal.jpg" alt="">
+     <div class="col-12 col-md-6 col-lg-4 contactcard mx-4" style="height: 365px;width: 290px;">
+       <img src="img/team/snehal.jpg" style="height: 230px;width: 290px;" alt="">
        <h5 class="mt-2">Snehal Patil</h5>
        <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
        <h6 class="my-2 desig">Head of Public Relations</h6>

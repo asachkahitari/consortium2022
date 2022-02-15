@@ -166,7 +166,7 @@
         <!-- <span class="tag px-4 py-2">PAN NIT</span> -->
         <img src="img/suc.jpeg" alt="">
         <h5 class="mt-2" style="font-weight: bold;">STARTUP CONCLAVE</h5>
-          <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
+          <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">StartUp Conclave is a national-level business plan competition to facilitate and encourage this vision of promoting entrepreneurship for a brighter future in India.</h6>
           <div class="col-md-12 text-right mb-5 mt-2">
             <a href="https://startupconclave.ecellvnit.org/" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
         </div>
@@ -176,7 +176,7 @@
             <span class="tag px-4 py-2">PAN NIT</span>
             <img src="img/eco.jpeg" alt="">
             <h5 class="mt-2" style="font-weight: bold;">ECOPRENEUR</h5>
-              <h6 class="mt-2 mx-2 pb-3 text-white text-left desc ">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
+              <h6 class="mt-2 mx-2 pb-3 text-white text-left desc ">Ecopreneur aims to incise the college students to explore the world of Environmental Entrepreneurship by deducing a proper technical solution to an issue.</h6>
               <div class="col-md-12 text-right mb-5 mt-2">
                 <a href="https://www.ecellvnit.org/ecopreneur/index.php" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
             </div>
@@ -186,7 +186,7 @@
             <span class="tag px-4 py-2">PAN NIT</span>
             <img src="img/coc.jpg" alt="">
             <h5 class="mt-2" style="font-weight: bold;">CHAMBER OF COMMERCE</h5>
-              <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">War of Worlds is an exciting event that will engage you into a fast-paced virtual world and test your quick thinking, decision making and analytical skills.</h6>
+              <h6 class="mt-2 pb-3 mx-2 text-white text-left desc">Chamber of Commerce is a premier body whose goal is the collective and communal enhancement of businesses.It serves essential roles in development for projects.</h6>
               <div class="col-md-12 text-right mb-5 mt-2">
                 <a href="https://www.ecellvnit.org/coc/" target="_blank"><button type="button" class="btn btn4">Register Now</button></a>
             </div>
