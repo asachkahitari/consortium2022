@@ -167,6 +167,12 @@ html{
   transform: scale(0);
   transition: all 0.3s ease;
 }
+.pos1{
+  left: 12%;
+}
+.pos2{
+  left: 11%;
+}
 .info .corename{
   font-size: 25px;
   font-weight: 600;
@@ -222,6 +228,12 @@ html{
 @media only screen and (max-width:768px) {
   .info{
     left: 10%;
+  }
+  .pos1{
+    left: 7%;
+  }
+  .pos2{
+    left: 4%;
   }
 }
 

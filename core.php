@@ -96,7 +96,7 @@
         <div class="col-12 col-md-6 col-lg-4 my-4 corecard">
           <div class="box">
             <img src="img/team/bhargav-team page.jpg" alt="">
-            <div class="info">
+            <div class="info pos1">
               <div class="corename">Bhargav Choudhury</div>
               <div class="details">
                 <h6>Treasurer</h6><p>+91 63761 28630<br>bhargavchoudhury071@gmail.com</p></div>
@@ -112,7 +112,7 @@
        <div class="col-12 col-md-6 col-lg-4 my-4 corecard">
         <div class="box">
           <img src="img/team/Rajat-team page.jpg" alt="">
-          <div class="info" style="left: 11%;">
+          <div class="info pos2">
             <div class="corename">Rajat Patni</div>
             <div class="details">
               <h6>Head Of Corporate Relations</h6><p>+91 70280 81122<br>rajat.s.patni@gmail.com</p></div>
@@ -127,7 +127,7 @@
        <div class="col-12 col-md-6 col-lg-4 my-4 corecard">
         <div class="box">
           <img src="img/team/nikita-team page.jpg" alt="">
-          <div class="info" style="left: 11%;">
+          <div class="info pos2">
             <div class="corename">Nikita Lohiya</div>
             <div class="details">
               <h6>Head of Corporate Relations</h6><p>+91 83908 63006<br>lohiyanikita01@gmail.com</p></div>
@@ -142,7 +142,7 @@
        <div class="col-12 col-md-6 col-lg-4 my-4 corecard">
         <div class="box">
           <img src="img/team/Siddhesh-team page.jpg" alt="">
-          <div class="info" style="left: 11%;">
+          <div class="info pos2">
             <div class="corename">Siddhesh Dumbre</div>
             <div class="details">
               <h6>Head Of Brand Development</h6><p>+91 70579 97990<br>sdumbre07@gmail.com</p></div>
@@ -158,7 +158,7 @@
        <div class="col-12 col-md-6 col-lg-4 my-4 corecard">
         <div class="box">
           <img src="img/team/vanshika-team page.jpg" alt="">
-          <div class="info" style="left: 11%;">
+          <div class="info pos2">
             <div class="corename">Vanshika Gupta</div>
             <div class="details">
               <h6>Head Of Brand Development</h6><p>+91 91668 45041<br>vg11072001@gmail.com</p></div>
@@ -174,7 +174,7 @@
        <div class="col-12 col-md-6 col-lg-4 my-4 corecard">
         <div class="box">
           <img src="img/team/bhavishya-team page.jpg" alt="">
-          <div class="info" style="left: 11%;">
+          <div class="info pos2">
             <div class="corename">Bhavishya Jain </div>
             <div class="details">
               <h6>Head Of Events and Planning</h6><p>+91 91306 12265<br>bhavishyajn7@gmail.com</p></div>
@@ -190,7 +190,7 @@
        <div class="col-12 col-md-6 col-lg-4 my-4 corecard">
         <div class="box">
           <img src="img/team/Tanvi-team page.jpg" alt="">
-          <div class="info" style="left: 11%;">
+          <div class="info pos2">
             <div class="corename">Tanvi Khurana</div>
             <div class="details">
               <h6>Head Of Events and Planning</h6><p>+91 77578 20308<br>tksagi1212@gmail.com</p></div>
@@ -205,7 +205,7 @@
        <div class="col-12 col-md-6 col-lg-4 my-4 corecard">
         <div class="box">
           <img src="img/team/jay-team page.jpg" alt="">
-          <div class="info" style="left: 11%;">
+          <div class="info pos2">
             <div class="corename">Jay Chheda</div>
             <div class="details">
               <h6>Head Of Public Relations</h6><p>+91 98700 36145<br>jaychheda2410@gmail.com</p></div>
@@ -220,7 +220,7 @@
        <div class="col-12 col-md-6 col-lg-4 my-4 corecard">
         <div class="box">
           <img src="img/team/Snehal-team page.jpg" alt="">
-          <div class="info" style="left: 11%;">
+          <div class="info pos2">
             <div class="corename">Snehal Patil</div>
             <div class="details">
               <h6>Head Of Public Relations</h6><p>+91 94231 32631<br>snehalpatil1801@gmail.com</p></div>
@@ -235,7 +235,7 @@
        <div class="col-12 col-md-6 col-lg-4 my-4 corecard">
         <div class="box">
           <img src="img/team/prasen-team page.jpg" alt="">
-          <div class="info" style="left: 11%;">
+          <div class="info pos2">
             <div class="corename">Prasen Kumar</div>
             <div class="details">
               <h6>Head Of Operations</h6><p>+91 62653 46554<br>prasenk05@gmail.com</p></div>
@@ -251,7 +251,7 @@
        <div class="col-12 col-md-6 col-lg-4 my-4 corecard">
         <div class="box">
           <img src="img/team/Mehul-team page.jpg" alt="">
-          <div class="info" style="left: 11%;">
+          <div class="info pos2">
             <div class="corename">Mehul Madne</div>
             <div class="details">
               <h6>Head Of Operations</h6><p>+91 93076 27987<br>mmadne1999@gmail.com</p></div>
@@ -266,7 +266,7 @@
        <div class="col-12 col-md-6 col-lg-4 my-4 corecard">
         <div class="box">
           <img src="img/team/Niharika-team page.jpg" alt="">
-          <div class="info" style="left: 11%;">
+          <div class="info pos2">
             <div class="corename">Niharika Madke</div>
             <div class="details">
               <h6>Technical Head</h6><p>+91 97265 94357<br>niharikamadke@gmail.com</p></div>
@@ -281,7 +281,7 @@
        <div class="col-12 col-md-6 col-lg-4 my-4 corecard">
         <div class="box">
           <img src="img/team/deepak-team page.jpg" alt="">
-          <div class="info" style="left: 11%;">
+          <div class="info pos2">
             <div class="corename">Deepak Patil</div>
             <div class="details">
               <h6>Technical Head</h6><p>+91 84850 95752<br>patildeep2000@gmail.com</p></div>

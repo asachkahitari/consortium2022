@@ -299,9 +299,7 @@
                 </div>
                 <div class="contactcard col-12 col-md-6 col-lg-4 mx-4" style="height: auto;border-radius: 25px;" data-aos="fade-up" data-aos-duration="2000">
                     <h5 class="mt-2 pt-3">Ummeemum Husain</h5>
-                    <a class="ml-4" href="" target="_blank" >
                         <img id="linkedin" src="img/linkedin_black.png" alt="">
-                    </a>
                     <div class="phone pb-4" style="margin-top: -30px;">+91 91563 77253</div>
                 </div>
                 <div class="contactcard col-12 col-md-6 col-lg-4 mx-4" style="height: auto;border-radius: 25px;" data-aos="fade-up" data-aos-duration="2000">

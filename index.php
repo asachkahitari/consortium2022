@@ -13,11 +13,12 @@
     <div class="content">
       <?php include('includes/header.php'); ?>
     <img id="home" class="d-none d-lg-block home" src="img/home.jpeg" style="position: relative;">
+    <a href="#about"><div class="caret d-none d-md-block"></div></a>
     <img id="home_mob" class="d-block d-lg-none" style="width:100%;height:90vh;" src="img/homebg_mob.jpg" alt="">
-      <a href=""><div class="caret"></div></a>
+      <a href="#about_mob"><div class="caret d-block d-md-none"></div></a>
 
     <!-- ABOUT DESKTOP -->
-    <section class="d-none d-md-block">
+    <section class="d-none d-md-block" id="about">
     <div class="about row align-items-center py-4 mx-auto ">
         <div class="col-12 col-md-5">
             <div class="owl-carousel owl-theme pt-5" id="one">
@@ -46,7 +47,7 @@
 </section>
 
     <!-- ABOUT MOBILE -->
-    <section class="d-block d-md-none">
+    <section class="d-block d-md-none" id="about_mob">
         <div class="about row align-items-center py-4 mx-auto d-block d-lg-none">
             <h2 class="text-center text-white mb-4"  style="font-weight: bolder;">ABOUT</h2>
             <div class="col-12 col-md-5">

@@ -32,7 +32,7 @@
       </div>
 
       <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
-        <img src="img/speakers/farhad.jpg" alt="">
+        <img src="img/speakers/farrhad.jpg" alt="">
         <h5 class="mt-2">FARHAD ACIDWALLA</h5>
           <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
           <h6 class="my-2 desig pb-3">Founder - CYBERNETIV DIGITAL</h6>
