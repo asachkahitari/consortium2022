@@ -80,8 +80,8 @@
 
     <!-- STATS CARDS  -->
     <div class="row align-items-center" style="margin-top: 100px;" >
-        <div class="col-12 col-md-6 col-lg-3 stats p-5 my-2 mx-3" id="counter">
-            <h1><span class="counter-value" data-count="20"></span><span>+</span></h1>
+        <div class="col-12 col-md-6 col-lg-3 stats my-2 mx-3" id="counter"style="padding:50px 70px;" >
+            <h1><span class="counter-value"  data-count="20"></span><span>+</span></h1>
             <h2>Events</h2>
         </div>
         <div class="col-12 col-md-6 col-lg-3 stats p-5 my-2 mx-3" id="counter">
@@ -102,9 +102,9 @@
     <img src="img/hex.png" class="hexa" alt="" style="bottom: 500px;">
     <!-- SPEAKERS CARDS -->
     <section id="speakers">
-    <h1 class="text-white text-center my-5" style="font-weight: bold; ">SPEAKERS</h1>
+    <h1 class="text-white text-center my-5" style="font-weight: bold; ">PREVIOUS SPEAKERS</h1>
 
-    <div class="row align-items-center text-center mx-auto">
+    <div class="row align-items-center text-center mx-auto" style="max-width: 90%;">
         <div class="col-12 col-md-6 col-lg-4 speakercard mx-4">
           <img src="img/speakers/simon.jpg" alt="">
           <h5 class="mt-2">SIMON TAUFEL</h5>
@@ -155,12 +155,12 @@
 </section>
 
 
-<span><img src="img/wireframe.png" alt="" width="1300px" style="position: relative;bottom: 950px;z-index:-1;margin-bottom: -1280px;left: -10px;opacity: 0.5;"></span>
+<span><img src="img/wireframe.png" alt="" width="100%" style="position: relative;bottom: 950px;z-index:-1;margin-bottom: -1280px;left: -10px;opacity: 0.5;"></span>
 
     <!-- EVENTS CARDS -->
     <section id="events">
     <h1 class="text-white text-center mt-5" style="font-weight: bold;">EVENTS</h1>
-    <div class="row align-items-center text-center mx-0 mb-3 text-white" >
+    <div class="row align-items-center text-center mx-auto mb-3 text-white" style="max-width: 90%;">
 
       <div class="col-12 col-md-6 col-lg-4 eventcard mx-4">
         <!-- <span class="tag px-4 py-2">PAN NIT</span> -->
