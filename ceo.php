@@ -21,7 +21,7 @@
 
                   </p>
                 <a href="ceoReg.php"><button class="btn btn3 " style="font-size: 1.4vw;" >Register Now for Free</button></a><br>
-                <p style="color: rgb(160, 160, 160);font-size: 1.3vw;" class="ml-5 mt-2">Last Date: 25th Feb</p></div>
+                <p style="color: rgb(160, 160, 160);font-size: 1.3vw;" class="ml-5 mt-2">Last Date: 15th March</p></div>
                   
                 <div class="col-12 col-md-5">
                     <div class="owl-carousel owl-theme pt-5" id="one">
