@@ -20,8 +20,6 @@ $college=mysqli_real_escape_string($conn, $_POST['college']);
 $course=mysqli_real_escape_string($conn, $_POST['course']);
 $year=mysqli_real_escape_string($conn, $_POST['year']);
 $_SESSION['name'] = $name;
-// age is phone number !! 
-// job is email id !!
   $sql = "INSERT INTO ceo (name, email, phone, college, course, year) VALUES ('$name', '$email', '$phone','$college', '$course', '$year')";
    if ($conn->query($sql) === TRUE) {
     header('LOCATION:ceoThanks.php');
