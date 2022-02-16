@@ -17,10 +17,10 @@
                 <p style="color: #D5242A;font-size: 1.4vw;">Real problems, real losses, and real disagreements in search of real solutions
                 Do you have what it takes to be a CEO?
                 </p>
-                <p style="font-size: 1.2vw;" class="my-4">In this era of hyper-competition and non-stop disruption, the only way to stand out from the crowd is to stand for something unique. CEO is more than a competition; it’s a mission to decode future leadership; it’s a chance for students to show, test, and improve their leadership skills in a real-world setting. An event that provides a glimpse into the future, where excellent leadership is necessary for success, and where participants take risks and even thrive during the most challenging times.
+                <p style="font-size: 1.2vw;" class="my-4">In this era of hyper-competition and non-stop disruption, the only way to stand out from the crowd is to stand for something unique. CEO is more than a competition; it’s a mission to decode future leaders; it’s a chance for students to show, test, and improve their leadership skills in a real-world setting. An event that provides a glimpse into the future, where excellent leadership is necessary for success, and where participants take risks and even thrive during the most challenging times.
 
                   </p>
-                <a href=""><button class="btn btn3 " style="font-size: 1.4vw;" >Register Now for Free</button></a><br>
+                <a href="ceoReg.php"><button class="btn btn3 " style="font-size: 1.4vw;" >Register Now for Free</button></a><br>
                 <p style="color: rgb(160, 160, 160);font-size: 1.3vw;" class="ml-5 mt-2">Last Date: 25th Feb</p></div>
                   
                 <div class="col-12 col-md-5">
@@ -67,11 +67,11 @@
                 <p style="color: #D5242A;font-size: 3.7vw;">Real problems, real losses, and real disagreements in search of real solutions
                 Do you have what it takes to be a CEO?
                 </p>
-                <p style="color: rgb(160, 160, 160);font-size: 3.7vw;" class="text-center my-3" >In this era of hyper-competition and non-stop disruption, the only way to stand out from the crowd is to stand for something unique. CEO is more than a competition; it’s a mission to decode future leadership; it’s a chance for students to show, test, and improve their leadership skills in a real-world setting. An event that provides a glimpse into the future, where excellent leadership is necessary for success, and where participants take risks and even thrive during the most challenging times.
+                <p style="color: rgb(160, 160, 160);font-size: 3.7vw;" class="text-center my-3" >In this era of hyper-competition and non-stop disruption, the only way to stand out from the crowd is to stand for something unique. CEO is more than a competition; it’s a mission to decode future leaders; it’s a chance for students to show, test, and improve their leadership skills in a real-world setting. An event that provides a glimpse into the future, where excellent leadership is necessary for success, and where participants take risks and even thrive during the most challenging times.
 
                   <br></p>
                 <div class="text-center mt-3 px-5">
-                    <a href="" target="_blank"><button type="button" class="btn btn3" style="font-size: 3.7vw;">Register Now for Free</button></a>
+                    <a href="ceoReg.php" target="_blank"><button type="button" class="btn btn3" style="font-size: 3.7vw;">Register Now for Free</button></a>
                     <p style="color: rgb(160, 160, 160);font-size: 4.2vw;" class=" mt-2">Last Date: 25th Feb</p></div>
                 </div></div>
         </div>
@@ -86,14 +86,14 @@
             <div class="struct my-4 py-4" >
                 <h4 class="text-left ml-3">QUALIFYING ROUND</h4>
                     <br>
-                    <p class="text-left ml-3">The qualifying round begins at the moment you register and consists of a basic questionnaire covering topics such as corporate and finance. Responses must be submitted before we close registrations. Our experts will shortlist the competitors for the first round based on their critical thinking, decisiveness, business-related strategizing, and creative thinking.</p>
+                    <p class="text-left ml-3">The qualifying round begins the moment you register, with the completion of a basic questionnaire covering corporate and financial topics. Keep in mind that you must submit your responses before we close registrations.
+Our experts will shortlist the contenders for the first round based on their critical thinking, decisiveness, business-related strategizing, and creative thinking.
                     
             </div>
             <div class="struct my-4 py-4" >
                 <h4 class="text-left ml-3">ROUND 1: GROUP DISCUSSION</h4>
                     <br>
-                  <p class="text-left ml-3">Industry experts will conduct a well-curated webinar for all participants, walking you through the best way to ace a group discussion. Then, in our group discussion round, we'll put your learnings and communication abilities to the test. The best performances in each group will progress to the next round.</p>
-                  
+                  <p class="text-left ml-3">Industry experts will conduct a well-curated webinar for all participants, walking you through the best way to ace a group discussion. Then, in our group discussion round, we'll put your learnings and communication abilities to the test. The best performances in each group will progress to the next round.	                  
             </div>
             <div class="struct my-4 py-4" >
                 <h4 class="text-left ml-3">ROUND 2: MARKETISTAAN</h4>
@@ -105,7 +105,7 @@
             <div class="struct my-4 py-4" >
                 <h4 class="text-left ml-3">ROUND 3: THE BOARDROOM DILEMMA</h4>
                     <br>
-                  <p class="text-left ml-3">Real-world problems require real-world answers, putting your analytical, problem-solving, and convincing abilities to the test. Participants in this round will showcase what it takes to be on the board of directors as well as to be the executive directors of a company that is facing a crucial decision. Make allies, understand your opponents, influence the neutral people, and present your point of view to the corporation's other stakeholders.
+                  <p class="text-left ml-3">Real problems require real answers, putting your analytical, problem-solving, and convincing abilities to the test. Participants in this round will showcase what it takes to be on the board of directors as well as to be the executive directors of a company that is facing a crucial decision. Make allies, understand your opponents, influence the neutral people, and present your point of view to the corporation's other stakeholders.
                 </p>
                   
             </div>
@@ -136,7 +136,7 @@
             <div class="block">
               <div class="square up" data-aos="fade-down" data-aos-duration="2000">
                 <h3>REGISTRATION CUM QUALIFYING ROUND</h3>
-                <h4>15 Feb-15 March</h4>
+                <h4>17 Feb-15 March</h4>
               </div>
               <div class="circle">
                 <p>1</p>
@@ -212,7 +212,7 @@
             <div class="block">
               <div class="square right vert"data-aos="fade-right" data-aos-duration="2000" >
                 <h3>REGISTRATION CUM QUALIFYING ROUND</h3>
-                <h4>15 Feb-15 March</h4>
+                <h4>17 Feb-15 March</h4>
               </div>
               <div class="circle" style="left: 27px;margin-left: -18px;">
                 <p>1</p>

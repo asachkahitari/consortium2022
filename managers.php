@@ -229,6 +229,12 @@
         <div class="col-12 col-6 col-lg-4 managerName7 mx-1 my-2 pt-3 pb-2 px-5">
           <a href="https://www.linkedin.com/in/vibhash-rathi-02364a204/" target="_blank"><h5>Vibhash Rathi <i class="fa fa-linkedin"></i></h5></a>
         </div>
+        <div class="col-12 col-6 col-lg-4 managerName7 mx-1 my-2 pt-3 pb-2 px-5">
+          <a href="https://www.linkedin.com/in/ishika-jain-b56637218" target="_blank"><h5>Ishika Jain <i class="fa fa-linkedin"></i></h5></a>
+        </div>
+        <div class="col-12 col-6 col-lg-4 managerName7 mx-1 my-2 pt-3 pb-2 px-5">
+          <a href="https://www.linkedin.com/in/akshay-archak-b26a30205" target="_blank"><h5>Akshay Archak <i class="fa fa-linkedin"></i></h5></a>
+        </div>
       </div>
       <span><img src="img/wireframe.png" alt="" width="1300px" style="position: relative;bottom: 1050px;z-index:-1;margin-bottom: -1280px;left: -10px;opacity: 0.7;"></span>
     </div>
