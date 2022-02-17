@@ -134,7 +134,7 @@
 
   <div class="heading text-center my-5 container py-3" style="background-color: #3a3a3a;">
     <h2>Contact Us</h2>
-    <p>For any sponsorship related queries, do reach out to us</p>
+    <p>For any queries relating to speaker sessions, do reach out to us at <span><a href="mailto:publicrelations@ecellvnit.co.in" style="color: red;">publicrelations@ecellvnit.co.in</a></span></p>
     <div class="row align-items-center">
      <div class="col-12 col-md-6 col-lg-4 contactcard mx-4" style="height: 365px;width: 290px;">
        <img src="img/team/jay.jpg" style="height: 230px;width: 290px;" alt="">

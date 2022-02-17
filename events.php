@@ -98,10 +98,10 @@
 
   <div class="heading text-center my-5 container py-3" style="background-color: #3a3a3a;">
     <h2>Contact Us</h2>
-    <p>For any sponsorship related queries, do reach out to us</p>
+    <p>For any queries relating to all events, do reach out to us at <span><a href="mailto:events@ecellvnit.co.in" style="color: red;">events@ecellvnit.co.in</a></span></p>
     <div class="row align-items-center">
      <div class="col-12 col-md-6 col-lg-4 contactcard mx-4" style="height: 365px;width: 280px;">
-       <img src="img/team/Tanvi.jpg" style="height: 230px;width: 280px;" alt="">
+       <img src="img/team/tanvi.jpg" style="height: 230px;width: 280px;" alt="">
        <h5 class="mt-2">Tanvi Khurana</h5>
        <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
        <h6 class="my-2 desig">Head of Events & Planning</h6>
@@ -113,7 +113,7 @@
      </div>
 
      <div class="col-12 col-md-6 col-lg-4 contactcard mx-4" style="height: 365px;width: 280px;">
-       <img src="img/team/Bhavishya.jpg" style="height: 230px;width: 280px;" alt="">
+       <img src="img/team/bhavishya.jpg" style="height: 230px;width: 280px;" alt="">
        <h5 class="mt-2">Bhavishya Jain</h5>
        <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
        <h6 class="my-2 desig">Head of Events & Planning</h6>
