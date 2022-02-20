@@ -24,7 +24,7 @@
            <img src="img/team/bhatt-sir.jpeg" style="height: 220px;" alt="">
            <h5 class="mt-3">DR. SS BHAT</h5>
            <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
-           <h6 class="my-2 desig">PROFESSOR INCHARGE</h6>
+           <h6 class="my-2 desig">ADVISOR</h6>
          </div>
          <!-- MEMBER 2 -->
          <div class="col-12 col-md-6 col-lg-4 contactcard" style="height: 320px;">
@@ -36,7 +36,7 @@
           <!-- MEMBER 3 -->
          <div class="col-12 col-md-6 col-lg-4 contactcard" style="height: 320px;">
            <img src="img/team/Karthik_Balasundaram.webp" style="height: 220px;" alt="">
-           <h5 class="mt-3">Karthik Balasundaram</h5>
+           <h5 class="mt-3">Dr. Karthik Balasundaram</h5>
            <hr style="width:35%;height:1.5px;color:red;opacity:1;margin:auto;">
            <h6 class="my-2 desig">PROFESSOR INCHARGE</h6>
          </div>
