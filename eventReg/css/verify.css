@@ -1,0 +1,106 @@
+body{
+    background-color: #171717;
+    /* background: url('../../img/wireframe.png'); */
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: white;
+  }
+
+/* navbar trial */
+
+/* navbar trial end */
+/* navbar css */
+h2{
+    color: white;
+}
+.navbar-brand>img {
+    max-height: 100%;
+    height: 100%;
+    width: auto;
+    margin: 0 auto;
+ 
+ 
+    /* probably not needed anymore, but doesn't hurt */
+    -o-object-fit: contain;
+    object-fit: contain; 
+ 
+ }
+.navbar-toggler-icon{
+    color: white;
+}
+.btnth {
+    border-radius: 5px;
+    background-color: rgb(145, 34, 34);
+    color: white;
+    font-size: 1.1rem;
+    font-weight: bolder;
+    padding: 5px 20px;
+  }
+  @media only screen and (max-width: 450px) {
+    .btnth{
+        padding: 3px 20px;
+        font-size: 1rem;
+    }
+  }
+  
+  .btnth {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+  }
+  
+  .btnth:after {
+  content: "»";
+  position: absolute;
+  opacity: 0;
+  top: 5px;
+  right: -20px;
+  transition: 0.5s;
+  }
+  
+  .btnth:hover {
+  padding-right: 24px;
+  padding-left: 8px;
+  }
+  
+  .btnth:hover:after {
+  opacity: 1;
+  right: 10px;
+  }
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+/* EVENTS CARDS CSS */
+.eventcard {
+    height: 468px;
+    width: 310px;
+    margin: 30px 50px;
+    background-color: #3a3a3a;
+    border-radius: 6px;
+    }
+.eventcard img {
+    padding: 5px 0;
+    height: 298px;
+    width: 298px;
+    margin-left: -6px;
+    margin-top: 4px;
+    }
+.desc {
+    font-size: small;
+    }
+    .btn4 {
+    color: #fff;
+    background-color: #d5242a;
+    margin-top: -30px;
+    }
+    .btn4:hover {
+    color: #fff;
+    background-color: #3a3a3a;
+    border: 1px solid white;
+    margin-top: -30px;
+    }
